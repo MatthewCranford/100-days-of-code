@@ -19,3 +19,13 @@
 
 **Link(s) to work**
 1. https://github.com/MatthewCranford/local-weather-app/commit/22f13b64702865131af3cca48104c98b1858070f
+
+
+### Day 2: January 3, Wednesday
+
+**Today's Progress**: Completed Local Weather App
+
+**Thoughts** Finally launched my project. Got the dynamic background working so it displays a background based on the user's weather. Only 2 more projects left for the intermediate section.
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/local-weather-app/commit/cf70143ac9ae9625a45c2d180de3d3c26ecbe7e6
