@@ -21,7 +21,7 @@
 1. https://github.com/MatthewCranford/local-weather-app/commit/22f13b64702865131af3cca48104c98b1858070f
 
 
-### Day 2: January 3, Wednesday
+### Day 3: January 3, Wednesday
 
 **Today's Progress**: Completed Local Weather App
 
@@ -29,3 +29,13 @@
 
 **Link(s) to work**
 1. https://github.com/MatthewCranford/local-weather-app/commit/cf70143ac9ae9625a45c2d180de3d3c26ecbe7e6
+
+
+### Day 4: January 4, Thursday
+
+**Today's Progress**: Refactored code on Local Weather App
+
+**Thoughts** Didn't get a chance to start next project. After some feedback, I refactored my Weather App by adding a load timer for the weather data loading in and optimized my images for a faster page load. 
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/local-weather-app/commit/b7e906adb8733d7748694502260349a063fc4aeb
