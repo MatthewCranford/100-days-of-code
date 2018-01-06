@@ -48,5 +48,7 @@
 **Thoughts** Got my images under 200kb for the Weather App. Had trouble understanding the Wiki API. Getting my button for my Wiki Veiwer to animate like the example is going to be challenging. Solved my CodeFights algorithm, but it doesnt meet the time complexity. Need to practice more algorithms.
 
 **Link(s) to work**
-1. https://github.com/MatthewCranford/wikipedia-viewer/commit/74c6b161bb21b55b049da92a4daef5a06bff0682
+1. https://github.com/MatthewCranford/local-weather-app/commit/dea0f230dfc7bfb2105f0f6ff7c6346cb169a190
+2. https://github.com/MatthewCranford/wikipedia-viewer/commit/74c6b161bb21b55b049da92a4daef5a06bff0682
+3. https://github.com/MatthewCranford/code-fights/blob/master/first-duplicate.js
 
