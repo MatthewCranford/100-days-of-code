@@ -39,3 +39,14 @@
 
 **Link(s) to work**
 1. https://github.com/MatthewCranford/local-weather-app/commit/b7e906adb8733d7748694502260349a063fc4aeb
+
+
+### Day 5: January 5, Friday
+
+**Today's Progress**: Optmized images a second time for Weather App, Started Wikipedia Viewer, Did some CodeFights.
+
+**Thoughts** Got my images under 200kb for the Weather App. Had trouble understanding the Wiki API. Getting my button for my Wiki Veiwer to animate like the example is going to be challenging. Solved my CodeFights algorithm, but it doesnt meet the time complexity. Need to practice more algorithms.
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/wikipedia-viewer/commit/74c6b161bb21b55b049da92a4daef5a06bff0682
+
