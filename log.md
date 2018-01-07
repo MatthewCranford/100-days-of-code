@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCamp and get a job as a developer.
+
+
 ### Day 1: January 1, Monday
 
 **Today's Progress**: Got the API working on the Local Weather App project
@@ -52,3 +55,12 @@
 2. https://github.com/MatthewCranford/wikipedia-viewer/commit/74c6b161bb21b55b049da92a4daef5a06bff0682
 3. https://github.com/MatthewCranford/code-fights/blob/master/first-duplicate.js
 
+
+### Day 6: January 6, Saturday
+
+**Today's Progress**: Added API functionality to my Wiki Viewer
+
+**Thoughts** Had some difficulty getting the api to connect with my app, but I pushed through it and in then end got the code to work. Have a lot of styling to do tomorrow.
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/wikipedia-viewer/commit/fa5904179df8c7e327eee6f1ec06d970d6891d31
