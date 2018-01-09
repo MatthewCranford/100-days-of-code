@@ -74,3 +74,13 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 
 **Link(s) to work**
 1. https://github.com/MatthewCranford/wikipedia-viewer/commit/13f55037b0308a9dcd1ab8910469ecf413f4cd08
+
+
+### Day 8: January 8, Monday
+
+**Today's Progress**: Completed my Wiki Viewer
+
+**Thoughts** I incorporated more animations and transitions than any of my previous projects. I'm happy the way this project turned out, I learned a lot from it.
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/wikipedia-viewer/commit/1cc61fe20474bbdcdb5c0e2215493374b55c133f
