@@ -84,3 +84,13 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 
 **Link(s) to work**
 1. https://github.com/MatthewCranford/wikipedia-viewer/commit/1cc61fe20474bbdcdb5c0e2215493374b55c133f
+
+
+### Day 9: January 9, Tuesday
+
+**Today's Progress**: Started new project building a Twitch Monitor for your favorite streamer's info and status.
+
+**Thoughts** Studied the Twitch API Documentation and built out the basic layout of the page. 
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/twitch-monitor/commit/46cf63f2462f718400edb08f7f12d188ce8698a7
