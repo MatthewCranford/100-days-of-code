@@ -94,3 +94,14 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 
 **Link(s) to work**
 1. https://github.com/MatthewCranford/twitch-monitor/commit/46cf63f2462f718400edb08f7f12d188ce8698a7
+
+### Day 10: January 10, Wednesday
+
+**Today's Progress**: Got accepted for the Grow with Google Challenge Scholarship, started working on scholarship course work, worked on Semi-conductor formula, and fixed padding issue with wikiviewer
+
+**Thoughts** Today was a big day, woke up with an acceptance email from the Grow with Google Challenge Scholarship from Udacity. This is a big opportunity I plan not to waste. Now is the time to focus and put in the work.
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/wikipedia-viewer/commit/4331d3c322058632bdd411bf2186d2b1fc64f7cf
+
+2. https://www.udacity.com/
