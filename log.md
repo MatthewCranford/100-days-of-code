@@ -118,3 +118,15 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 1. https://github.com/MatthewCranford/mockup-to-article
 
 2. https://www.udacity.com/
+
+
+### Day 12: January 12, Friday
+
+**Today's Progress**: Restructured project's code
+
+**Thoughts** Today was a tough day and the question whether I would code today crossed my mind, but I remembered why I took on this challenge, my future. Times such as these are when it's most important to hold the line.
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/mockup-to-article/commit/9e2f1774693825087d1e60619b5c2c45d9d70c3f
+
+2. https://www.udacity.com/
