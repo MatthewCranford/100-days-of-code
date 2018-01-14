@@ -142,3 +142,16 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 1. https://github.com/MatthewCranford/mockup-to-article/commit/0131dae5d77edf98186c7790abf494b41ffb3f5a
 
 2. https://github.com/MatthewCranford/twitch-monitor/commit/59d7923db22065538e20a028b5859ec1a2b3f45f
+
+
+### Day 14: January 14, Sunday
+
+**Today's Progress**: Started second udacity project and got stream status to connect on twitch project
+
+**Thoughts** Made a lot of progress on Udacity project. Having trouble dynamically generating streamer list with my Twitch project. 
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/animal-trading-cards/commit/4c51a9e32bed427085699968a7e64dda144f30f7
+
+2. https://github.com/MatthewCranford/twitch-monitor/commit/c70606ee08772c862cc86e60b1711efb8b115ecf
+
