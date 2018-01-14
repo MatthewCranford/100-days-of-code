@@ -130,3 +130,15 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 1. https://github.com/MatthewCranford/mockup-to-article/commit/9e2f1774693825087d1e60619b5c2c45d9d70c3f
 
 2. https://www.udacity.com/
+
+
+### Day 13: January 13, Saturday
+
+**Today's Progress**: Final refactor for Udacity project, Connect API to Twitch project
+
+**Thoughts** Really enjoy the mentorship provided by Udacity, they've given me great feedback. Been learning a lot in a short time period. Happy I was able to make progress with both my projects today. 
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/mockup-to-article/commit/9e2f1774693825087d1e60619b5c2c45d9d70c3f
+
+2. https://www.udacity.com/
