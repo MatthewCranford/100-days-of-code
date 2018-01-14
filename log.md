@@ -139,6 +139,6 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 **Thoughts** Really enjoy the mentorship provided by Udacity, they've given me great feedback. Been learning a lot in a short time period. Happy I was able to make progress with both my projects today. 
 
 **Link(s) to work**
-1. https://github.com/MatthewCranford/mockup-to-article/commit/9e2f1774693825087d1e60619b5c2c45d9d70c3f
+1. https://github.com/MatthewCranford/mockup-to-article/commit/0131dae5d77edf98186c7790abf494b41ffb3f5a
 
-2. https://www.udacity.com/
+2. https://github.com/MatthewCranford/twitch-monitor/commit/59d7923db22065538e20a028b5859ec1a2b3f45f
