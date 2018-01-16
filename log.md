@@ -164,6 +164,7 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 **Thoughts**: Coded remotely in a new environment, but still got some my coding in and got some git practice in.
 
 **Link(s) to work**
-1. https://github.com/MatthewCranford/animal-trading-cards/commit/4c51a9e32bed427085699968a7e64dda144f30f7
+1. 
+https://github.com/MatthewCranford/animal-trading-cards/commit/d6ff5c1ed41b93e5fa54fda8b4acd58e41fbe606
 
-2. https://github.com/MatthewCranford/twitch-monitor/commit/c70606ee08772c862cc86e60b1711efb8b115ecf
+2. https://github.com/MatthewCranford/twitch-monitor/commit/762c3b6499f98a5e86fbc670c318fd52077c5a17
