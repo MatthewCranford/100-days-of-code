@@ -155,3 +155,15 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 
 2. https://github.com/MatthewCranford/twitch-monitor/commit/c70606ee08772c862cc86e60b1711efb8b115ecf
 
+
+
+### Day 15: January 15, Monday
+
+**Today's Progress**: Add transforms to trading card, started untangling the twitch streamer knot. 
+
+**Thoughts**: Coded remotely in a new environment, but still got some my coding in and got some git practice in.
+
+**Link(s) to work**
+1. https://github.com/MatthewCranford/animal-trading-cards/commit/4c51a9e32bed427085699968a7e64dda144f30f7
+
+2. https://github.com/MatthewCranford/twitch-monitor/commit/c70606ee08772c862cc86e60b1711efb8b115ecf
