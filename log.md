@@ -168,3 +168,15 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 https://github.com/MatthewCranford/animal-trading-cards/commit/d6ff5c1ed41b93e5fa54fda8b4acd58e41fbe606
 
 2. https://github.com/MatthewCranford/twitch-monitor/commit/762c3b6499f98a5e86fbc670c318fd52077c5a17
+
+
+
+### Day 16: January 16, Tuesday
+
+**Today's Progress**: Completed Animal Card project. 
+
+**Thoughts**: Took a lot of time getting all the details, but I'm happy the way it came out and enjoyed paying tribute to one of my favorite tv shows.
+
+**Link(s) to work**
+1. 
+https://github.com/MatthewCranford/animal-trading-cards/commit/193a5a61f72835ede50e9de1d962fece41bf2b4c
