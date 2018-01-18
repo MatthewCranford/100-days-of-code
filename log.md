@@ -195,3 +195,19 @@ https://github.com/MatthewCranford/twitch-monitor/commit/389e6496d9c36c10fdd0993
 
 2. 
 https://github.com/MatthewCranford/animal-trading-cards/commit/aa6923b452cb6d0110f21dc99f1d9550e310adad
+
+
+
+### Day 18: January 18, Thursday
+
+**Today's Progress**: Completed v2 of Trading Card, Displayed JSON data to screen for Twitch project
+
+**Thoughts**: Getting efficient in my workflow. Was a lot to juggle, but it's getting easier. Still room to improve. 
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/twitch-monitor/commit/c14f6cb1cd3a1cc3206f7ef2183098fcf1a10113
+
+2. 
+https://github.com/MatthewCranford/animal-trading-cards/commit/3cfdc2e442099d963eecafd60009311bfb0f0722
