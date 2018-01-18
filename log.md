@@ -180,3 +180,18 @@ https://github.com/MatthewCranford/animal-trading-cards/commit/d6ff5c1ed41b93e5f
 **Link(s) to work**
 1. 
 https://github.com/MatthewCranford/animal-trading-cards/commit/193a5a61f72835ede50e9de1d962fece41bf2b4c
+
+
+### Day 17: January 17, Wednesday
+
+**Today's Progress**: Updated trading card. Made a breakthrough on Twitch project 
+
+**Thoughts**: Was able to make good progress on both projects. Still have a lot of improvements to make on card. Goal is to launch v2 tomorrow.
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/twitch-monitor/commit/389e6496d9c36c10fdd099334ac6fac36b0cd38d
+
+2. 
+https://github.com/MatthewCranford/animal-trading-cards/commit/aa6923b452cb6d0110f21dc99f1d9550e310adad
