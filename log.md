@@ -211,3 +211,19 @@ https://github.com/MatthewCranford/twitch-monitor/commit/c14f6cb1cd3a1cc3206f7ef
 
 2. 
 https://github.com/MatthewCranford/animal-trading-cards/commit/3cfdc2e442099d963eecafd60009311bfb0f0722
+
+
+
+### Day 19: January 19, Friday
+
+**Today's Progress**: Submit Ghost Card for review. Worked on Twitch project
+
+**Thoughts**: Finally reached a point where I am happy with my Ghost Card. Time to move on to other projects.
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/animal-trading-cards/commit/2501668dcadab0be357cbbd901804fca532eff10
+
+2. 
+https://github.com/MatthewCranford/twitch-monitor/commit/57d9e73c9c240ad5d640be8e55084adb3f91719e
