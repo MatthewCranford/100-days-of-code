@@ -227,3 +227,18 @@ https://github.com/MatthewCranford/animal-trading-cards/commit/2501668dcadab0be3
 
 2. 
 https://github.com/MatthewCranford/twitch-monitor/commit/57d9e73c9c240ad5d640be8e55084adb3f91719e
+
+
+### Day 20: January 20, Saturday
+
+**Today's Progress**: Got twitch tabs to function like the mock-up
+
+**Thoughts**: Things are starting to click regarding the 3 pillars html,css,js. Still a lot to learn.
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/twitch-monitor/commit/15d07c5329e635128c9e3e0629d6f7ea52aabd97
+
+
+
