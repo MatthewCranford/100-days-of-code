@@ -241,4 +241,16 @@ https://github.com/MatthewCranford/twitch-monitor/commit/57d9e73c9c240ad5d640be8
 https://github.com/MatthewCranford/twitch-monitor/commit/15d07c5329e635128c9e3e0629d6f7ea52aabd97
 
 
+### Day 21: January 21, Sunday
+
+**Today's Progress**: Added text fade-in to tabs
+
+**Thoughts**: Twitch app is coming together. Only a few more features and styles before it's done. 
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/twitch-monitor/commit/c39ca572451e73366f4e7b3625de7e64552cdfbc
+
+
 
