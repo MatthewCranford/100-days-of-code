@@ -253,4 +253,14 @@ https://github.com/MatthewCranford/twitch-monitor/commit/15d07c5329e635128c9e3e0
 https://github.com/MatthewCranford/twitch-monitor/commit/c39ca572451e73366f4e7b3625de7e64552cdfbc
 
 
+### Day 22: January 22, Monday
+
+**Today's Progress**: Worked on Udacity course. Fixed tab text overflow.
+
+**Thoughts**: Didn't expect to get stuck on such a small problem today, but 400mg of caffiene later it was eventually solved. Time to tackle the next problem.  
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/twitch-monitor/commit/866ddc3b71a8ede5db4c8272b3e8a5b9405c828a
+
 
