@@ -273,3 +273,14 @@ https://github.com/MatthewCranford/twitch-monitor/commit/c39ca572451e73366f4e7b3
 **Link(s) to work**
 
 1. https://github.com/MatthewCranford/twitch-monitor/commit/accb2036198cc705799a3d708ad785410a959fa2
+
+
+### Day 24: January 24, Wednesday
+
+**Today's Progress**: Finished first section of jQuery udacity course. Completed all the functionality of my Twitch project.
+
+**Thoughts**: Twitch project really came together today. Got a lot of styling to do tomorrow.   
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/twitch-monitor/commit/d87a0a3e15d13e6d54891a781f5b12d5a9d1bfb5
