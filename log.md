@@ -386,3 +386,14 @@ https://github.com/MatthewCranford/twitch-monitor/commit/c39ca572451e73366f4e7b3
 **Link(s) to work**
 
 1. https://github.com/MatthewCranford/twitch-monitor/commit/d4bb5f7fc3b8e02be82d84786110dae70e1f98e7
+
+
+### Day 26: January 26, Friday
+
+**Today's Progress**: Continued jQuery Udacity course, added modal to Twitch app
+
+**Thoughts**: Implemented my first modal. A lot of error I need to account for on the add user. Lots to do this weekend.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/twitch-monitor/commit/dc911d23bc138504d237a4ba13c182d3df4f3288
