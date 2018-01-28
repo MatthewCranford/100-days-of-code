@@ -397,3 +397,14 @@ https://github.com/MatthewCranford/twitch-monitor/commit/c39ca572451e73366f4e7b3
 **Link(s) to work**
 
 1. https://github.com/MatthewCranford/twitch-monitor/commit/dc911d23bc138504d237a4ba13c182d3df4f3288
+
+
+### Day 27: January 27, Saturday
+
+**Today's Progress**: Finished DOM manipulation section of jQuery course, Refactored/Restyled Twitch app
+
+**Thoughts**: I feel I'm spending too much time adding features that go past the requirements of the project. I know I'm increasing my skills and knowledge, but I feel the pressure of my 100 day deadline.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/twitch-monitor/commit/e2183ee97cb408c5d0c900eff488b275530a4894
