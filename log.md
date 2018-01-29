@@ -408,3 +408,14 @@ https://github.com/MatthewCranford/twitch-monitor/commit/c39ca572451e73366f4e7b3
 **Link(s) to work**
 
 1. https://github.com/MatthewCranford/twitch-monitor/commit/e2183ee97cb408c5d0c900eff488b275530a4894
+
+
+### Day 28: January 28, Sunday
+
+**Today's Progress**: Finished jQuery section, Complete all Twitch App features
+
+**Thoughts**: Got my tasks completed today, wasn't easy, but it got done. A lot going on in life. My goal is to still maintain what I consider the minimal effort of 4 hours of code a day. 
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/twitch-monitor/commit/853b4389b04f713d8878f4a588fa522f8648e1c0
