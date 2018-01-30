@@ -431,3 +431,17 @@ https://github.com/MatthewCranford/twitch-monitor/commit/c39ca572451e73366f4e7b3
 
 1. 
 https://github.com/MatthewCranford/twitch-monitor/commit/7caf33f374493938fdcc20a44a165b77904027b7
+
+
+### Day 30: January 30, Tuesday
+
+**Today's Progress**: Worked on intermediate algorithms, Added jQuery on Pixel Art Maker and grabbed user input.
+
+**Thoughts**: A lot going on in life, but I need to stay focused on the goal. Things will improve.
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/twitch-monitor/commit/364c66d8c46ed5ef852851cfbd3b2b85f315d9ab
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/1f0e1113a73fedbd8d2546b1752a0aac767594e8
