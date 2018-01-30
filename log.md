@@ -419,3 +419,15 @@ https://github.com/MatthewCranford/twitch-monitor/commit/c39ca572451e73366f4e7b3
 **Link(s) to work**
 
 1. https://github.com/MatthewCranford/twitch-monitor/commit/853b4389b04f713d8878f4a588fa522f8648e1c0
+
+
+### Day 29: January 29, Monday
+
+**Today's Progress**: Started Pixel Art project, Finished Twitch App!
+
+**Thoughts**: Finally the Twitch project is completed. I'm really happy the way this came out. My best piece of work yet if I do say so myself. 
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/twitch-monitor/commit/7caf33f374493938fdcc20a44a165b77904027b7
