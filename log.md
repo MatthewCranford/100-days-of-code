@@ -445,3 +445,15 @@ https://github.com/MatthewCranford/twitch-monitor/commit/7caf33f374493938fdcc20a
 https://github.com/MatthewCranford/twitch-monitor/commit/364c66d8c46ed5ef852851cfbd3b2b85f315d9ab
 
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/1f0e1113a73fedbd8d2546b1752a0aac767594e8
+
+
+### Day 31: January 31, Wednesday
+
+**Today's Progress**: Restarted coding blog, worked on algorithms, created grid logic for Pixel Art Maker. 
+
+**Thoughts**: Busy day, the only type of days I like. First month of 100 days challenge complete and first month of commits.
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/2eaf5047003edf99f1d55cfe0e30ff2f439ad717
