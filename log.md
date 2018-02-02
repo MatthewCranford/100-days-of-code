@@ -457,3 +457,15 @@ https://github.com/MatthewCranford/twitch-monitor/commit/364c66d8c46ed5ef852851c
 
 1. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/2eaf5047003edf99f1d55cfe0e30ff2f439ad717
+
+
+### Day 32: Febuary 1, Thursday
+
+**Today's Progress**: Worked on roman algo, Coded draw function to the Pixel Art Project, Worked on personal blog.  
+
+**Thoughts**: Really tough algorithm. Feel like there's an easy solution, but it keeps slipping from my grasp. Brute forcing it until I can come up with something more elegant. Implemented one of the harder features of the Pixel Art Project
+
+**Link(s) to work**
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker
