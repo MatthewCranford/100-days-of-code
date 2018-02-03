@@ -469,3 +469,18 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/2eaf5047003edf99f1d55c
 
 1. 
 https://github.com/MatthewCranford/pixel-art-maker
+
+
+### Day 33: Febuary 2, Friday
+
+**Today's Progress**: Started Udemy course on landing a dev job, solved roman algo!, and worked on the js code for Pixel Art Maker.  
+
+**Thoughts**: Trusted the process and finally completed the roman algo. I know a better solution to it is out there, but for now it's time to move on. 
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/f916e5ac64a1ed98e0f8529182734451f94069e7
+
+2. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/de400861256193f5fab59e66bfbdcc9606249863
+
