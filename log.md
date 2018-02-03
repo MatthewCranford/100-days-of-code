@@ -484,3 +484,17 @@ https://github.com/MatthewCranford/pixel-art-maker
 2. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/de400861256193f5fab59e66bfbdcc9606249863
 
+
+### Day 34: Febuary 3, Saturday
+
+**Today's Progress**: Worked on Udemy course, started new algo, reworked Pixel Art Maker.  
+
+**Thoughts**: Slow progress today, Got stuck on both the new algo and my code rework of the Pixel Art Maker project. A lot of work to do tomorrow.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/80395ad06c0aee5201daf8fb75a11e5be87e655d
+
+2. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/6a6c234cb42d1597ce47a6ce834184dc6f210f14
+
