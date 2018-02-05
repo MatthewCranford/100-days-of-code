@@ -498,3 +498,20 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/de400861256193f5fab59e
 2. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/6a6c234cb42d1597ce47a6ce834184dc6f210f14
 
+
+### Day 35: Febuary 4, Sunday
+
+**Today's Progress**:Finished blog post, solved 2 algos, worked on Pixel Art Maker
+
+**Thoughts**: Made a lot of progress this sunday. No Superbowl this year. 
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/blob/master/wherefore-art-thou.js
+
+2. 
+https://github.com/MatthewCranford/fcc-intermediate-algorithms/blob/master/search-and-replace.js
+
+3. https://github.com/MatthewCranford/pixel-art-maker/commit/2e82e5b2ec09a835b7c34c46c0e57febc49bfbe0
+
+
