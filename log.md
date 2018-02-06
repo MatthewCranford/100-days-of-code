@@ -501,7 +501,7 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/6a6c234cb42d1597ce47a6
 
 ### Day 35: Febuary 4, Sunday
 
-**Today's Progress**:Finished blog post, solved 2 algos, worked on Pixel Art Maker
+**Today's Progress**: Finished blog post, solved 2 algos, worked on Pixel Art Maker
 
 **Thoughts**: Made a lot of progress this sunday. No Superbowl this year. 
 
@@ -513,5 +513,20 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/6a6c234cb42d1597ce47a6
 https://github.com/MatthewCranford/fcc-intermediate-algorithms/blob/master/search-and-replace.js
 
 3. https://github.com/MatthewCranford/pixel-art-maker/commit/2e82e5b2ec09a835b7c34c46c0e57febc49bfbe0
+
+
+### Day 36: Febuary 5, Monday
+
+**Today's Progress**: Worked on algos, worked on Pixel Art Project
+
+**Thoughts**: Difficult day.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/6bc143dd2e60369b4648147b19a47fde88679820
+
+2. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/7040dcce54bbc406fbe47a8dcecf1b2097043e01
+
 
 
