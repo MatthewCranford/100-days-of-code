@@ -529,4 +529,16 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/blob/master/searc
 https://github.com/MatthewCranford/pixel-art-maker/commit/7040dcce54bbc406fbe47a8dcecf1b2097043e01
 
 
+### Day 37: Febuary 6, Tuesday
+
+**Today's Progress**: Worked on Udemy course, completed 4 algos, continued working on Pixel Art grid
+
+**Thoughts**: Made a lot of progress on algo section, Pixel Art project is going a bit slow for my liking, perhaps need to devote more pomodori towards it.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/e3e45ef2334f6a6306fcef9c31035c4f06a952e2
+
+2. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/46a6b8c9b32edca7439506987e6afd2b234ce8ff
 
