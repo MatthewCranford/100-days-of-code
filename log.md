@@ -555,3 +555,17 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/46a6b8c9b32edca7439506
 
 2. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/9c8bc63b87a4fdc233aa418f0f22f3eb332f2ace
+
+
+## Day 39: Febuary 8, Thursday
+
+**Today's Progress**: Practiced Regex, solved 1 algo, worked on project
+
+**Thoughts**: Spent 2 pomodori on regex (learned a lot). Algos were slow today, but regex skills improved. Pixel project is moving slow with only 2 pomodori (No rush, but 4 might be better) 
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/a64cd1e863bdcaf52e7a551533e88a06a3bde6e4
+
+2. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/df2ba2020286c496ed25be2e24ad4a965d06d373
