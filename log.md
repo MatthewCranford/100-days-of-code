@@ -569,3 +569,17 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/9c8bc63b87a4fdc233aa41
 
 2. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/df2ba2020286c496ed25be2e24ad4a965d06d373
+
+
+## Day 40: Febuary 9, Friday
+
+**Today's Progress**: Finished regex tutorial, solved 1 algo (tough), reformat project code
+
+**Thoughts**: Did not expect to get stuck on a single algo for 4 pomodori, but it's tough to anticipate how long they take. Over half-way done with intermediate algs. Lots to work on with pixel project. I really want this to be my best project yet and with the ideas I have, it will be.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/43dd00ea67bfc4bbe596a0bcbd85d7715c4fa085
+
+2. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/5198411640904e761aad77b17531975c27136f76
