@@ -583,3 +583,17 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/df2ba2020286c496ed25be
 
 2. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/5198411640904e761aad77b17531975c27136f76
+
+
+## Day 41: Febuary 10, Saturday
+
+**Today's Progress**: Solved another algo, worked on project
+
+**Thoughts**: Algos are getting harder, trying to stay on track. Project features keep multiplying, but it's worth it.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/76fe2804cdd2e0d51675f1983ce99d948d3c73c9
+
+2. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/ac8994ad9d5c3abd8491b77925f1fd0c90b9ab6c
