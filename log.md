@@ -611,3 +611,19 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/ac8994ad9d5c3abd8491b7
 
 2. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/fa15909658ee1a0da32265dba5f6bb12060bac2b
+
+
+## Day 43: Febuary 12, Monday
+
+**Today's Progress**: Started student doc project, solved the infamous steamroller algo, refactored pixel project
+
+**Thoughts**: Put my pixel project's code out there for feedback. The steamroller was the hardest algo to date. Not happy with my solution and would like a more efficient one. 
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/splice-doc/commit/7fada3851dca9ed1da0bd1680bd4b06d1619a4df
+
+2. 
+https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de0b0f31339f1ef4d1c5c52d29f01e27
+
+3. https://github.com/MatthewCranford/pixel-art-maker/commit/dcf061a8fcc9277587a28f41df4a6cb35968e8b1
