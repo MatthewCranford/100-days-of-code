@@ -627,3 +627,18 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/fa15909658ee1a0da32265
 https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de0b0f31339f1ef4d1c5c52d29f01e27
 
 3. https://github.com/MatthewCranford/pixel-art-maker/commit/dcf061a8fcc9277587a28f41df4a6cb35968e8b1
+
+
+
+## Day 44: Febuary 13, Tuesday
+
+**Today's Progress**: Solved 2 new algs and started a 3rd, Overhauled my project code and improved draw functionality
+
+**Thoughts**: Feedback on project has taken my code to the next level (ship early and often), final intermediate alg tomorrow (excited);
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/482f7e181437881dd5c9a89ce84240743f7cf822
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/7ba2ffd5b0779fb9c1eea89a7631c956f88d048b
+
