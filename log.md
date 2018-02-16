@@ -654,3 +654,16 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/eaea074180aadf9ef3331a4a8c4833e5f61bde3f
 
+
+## Day 46: Febuary 15, Thursday
+
+**Today's Progress**: Solved first advanced algo, added eraser to project
+
+**Thoughts**: Hard algo today. Really pushed my regex skills to their max, but I got better with it during the process. Made a lot of changes to my project, changed to a minimum of 4 pomodori per day for project work time. 2 wasn't enough to get the kind of results I wanted. Look to get a first draft of the project completed by this weekend. Lots more coding.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/096e3e20c14586afa4d6c2204dfb354d4d6e1358
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/c71c1e044fbc1e0273ba4b78b270e57d2cc78cb9
+
