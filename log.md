@@ -667,3 +667,18 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/c71c1e044fbc1e0273ba4b78b270e57d2cc78cb9
 
+
+
+## Day 47: Febuary 16, Friday
+
+**Today's Progress**: Reformated doc project, Solved another algo, added animations to pixel project
+
+**Thoughts**: Tomorrows algo is going to be a tough one, but i'm going to show up regardless. Getting close to completing my udacity project.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/splice-doc/commit/175aaac45ccabda281f016de2b243b45de7ab70c
+2. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/ba79aa96372a4a38d8d62d8eb4fd045b5ffc0747
+3. https://github.com/MatthewCranford/pixel-art-maker/commit/20c2b03f0e270d5f8185861b9cac056d246b5936
+ 
+
