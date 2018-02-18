@@ -46,9 +46,9 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 
 ### Day 5: January 5, Friday
 
-**Today's Progress**: Optmized images a second time for Weather App, Started Wikipedia Viewer, Did some CodeFights.
+**Today's Progress**: Optimized images a second time for Weather App, Started Wikipedia Viewer, Did some CodeFights.
 
-**Thoughts** Got my images under 200kb for the Weather App. Had trouble understanding the Wiki API. Getting my button for my Wiki Veiwer to animate like the example is going to be challenging. Solved my CodeFights algorithm, but it doesnt meet the time complexity. Need to practice more algorithms.
+**Thoughts** Got my images under 200kb for the Weather App. Had trouble understanding the Wiki API. Getting my button for my Wiki Viewer to animate like the example is going to be challenging. Solved my CodeFights algorithm, but it doesn't meet the time complexity. Need to practice more algorithms.
 
 **Link(s) to work**
 1. https://github.com/MatthewCranford/local-weather-app/commit/dea0f230dfc7bfb2105f0f6ff7c6346cb169a190
@@ -98,7 +98,7 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 
 ### Day 10: January 10, Wednesday
 
-**Today's Progress**: Got accepted for the Grow with Google Challenge Scholarship, started working on scholarship course work, worked on Semi-conductor formula, and fixed padding issue with wikiviewer
+**Today's Progress**: Got accepted for the Grow with Google Challenge Scholarship, started working on scholarship course work, worked on Semi-conductor formula, and fixed padding issue with wiki viewer
 
 **Thoughts** Today was a big day, woke up with an acceptance email from the Grow with Google Challenge Scholarship from Udacity. This is a big opportunity I plan not to waste. Now is the time to focus and put in the work.
 
@@ -136,7 +136,7 @@ My Goal for these 100 days is to obtain my Front End Certificate from freeCodeCa
 
 ### Day 5: January 5, Friday
 
-**Today's Progress**: Optmized images a second time for Weather App, Started Wikipedia Viewer, Did some CodeFights.
+**Today's Progress**: Optimized images a second time for Weather App, Started Wikipedia Viewer, Did some CodeFights.
 
 **Thoughts** Got my images under 200kb for the Weather App. Had trouble understanding the Wiki API. Getting my button for my Wiki Veiwer to animate like the example is going to be challenging. Solved my CodeFights algorithm, but it doesnt meet the time complexity. Need to practice more algorithms.
 
