@@ -694,6 +694,20 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/3b65152434b07079c3773c33fba667b02dbbe980
 
+
+## Day 49: Febuary 18, Sunday
+
+**Today's Progress**: Finished my blog post, solved an algo, release alpha version of my project
+
+**Thoughts**: Took a while to get this weeks blog post out. Need to spend more time during the week working on it. Brute forced my way to a solution on todays algorithm. Launched my project, wanted to spend another week on it, but the feed back I get will be valuable.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/92ed84272275c65a1e7f067c0f992345439d784c
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/6311ee9d5315a7dc8558a0e0b82f6eaffed2d21f 
+
+
  
 
 
