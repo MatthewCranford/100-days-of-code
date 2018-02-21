@@ -721,6 +721,19 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/49c1112fea95caea127c48a2b449e58be403c018
 
 
+## Day 51: Febuary 20, Tuesday
+
+**Today's Progress**: Continued work on the cash register algorithm, Added tooltips to project.
+
+**Thoughts**: Ran into some issues with the logic and math of my algorithms code. Understanding is improving, hoping for a breakthrough. Got a lot of good quality time in on my project. Might start shifting more pomodori towards algorithms this week.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/4516969838e8123961065c2578f2bc1e0e534449
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/a541216c21bc847676b8267ec68abf8138417558
+
+
  
 
 
