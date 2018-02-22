@@ -718,7 +718,7 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/db7446a65f5ecccaf3c63161c749a6583f6ee7fb
 
-2. https://github.com/MatthewCranford/pixel-art-maker/commit/49c1112fea95caea127c48a2b449e58be403c018
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/49c1112fea95caea127c48a2b449e58be403c018            
 
 
 ## Day 51: Febuary 20, Tuesday
@@ -732,6 +732,22 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/4516969838e8123961065c2578f2bc1e0e534449
 
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/a541216c21bc847676b8267ec68abf8138417558
+
+
+ ## Day 52: Febuary 21, Wednesday
+
+**Today's Progress**: Worked a bit on next weeks blog, Finished CID algorithm!, Solved dynamic grid on project!
+
+**Thoughts**: Wasn't too happy being snowed in, but I got more quality work done today than I have in a long time. 
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/467020291afdf7a92d2b2c579474efd3db0403b9
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/d4a9a94a219ea01c54c5dbf22c4b9612b2af7c1b
+
+
+ 
 
 
  
