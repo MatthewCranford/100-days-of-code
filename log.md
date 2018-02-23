@@ -747,6 +747,18 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/d4a9a94a219ea01c54c5dbf22c4b9612b2af7c1b
 
 
+ ## Day 53: Febuary 22, Thursday
+
+**Today's Progress**: Worked on blog, solved an algo, refactored project
+
+**Thoughts**: Spent A LOT of time wrapping my head around permutations. This is a tough algorithm need to be focused tomorrow. Making great time on Udacity project. Need to prioritize algorithms right now.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/65daf9cc59628d258e53b1865218623596287206
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/0df0136b5b5473c4cd55ff0b1fd5890375aff70d
+
  
 
 
