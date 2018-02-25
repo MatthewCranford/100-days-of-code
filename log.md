@@ -773,6 +773,22 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/28a4d1e1996413b2b1e35e857a26c48d1698f2e8
 
  
+  ## Day 55: Febuary 24, Saturday
+
+**Today's Progress**: Hit a wall on algorithm, fixed project bugs + improved tool-tips
+
+**Thoughts**: Recursion is a weakness I need to practice and improve.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/5bdffb5eaccde506f967a0a92e17c88892699eb5
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/df8ffd94021432621638a6aab6a66397fa5d053f
+
+ 
+
+
+
 
 
 
