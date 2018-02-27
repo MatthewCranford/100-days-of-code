@@ -799,6 +799,19 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/851cb175659cc2cee9efc810a38571f15b63ea64
 
  
+  ## Day 57: Febuary 26, Monday
+
+**Today's Progress**: Posted new blog post, SOLVED ALGO! Began work on adding a color reset on "close" for project
+
+**Thoughts**: It's a great feeling to have that algorithm completed.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/f54edaf3e18bfd9836cedd3e99828fc5e0ee8ea7
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/dafcfcac10a29ee6b8819cea052f6c0efe502077
+
+ 
 
 
 
