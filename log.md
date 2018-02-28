@@ -812,6 +812,19 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/dafcfcac10a29ee6b8819cea052f6c0efe502077
 
  
+  ## Day 58: Febuary 27, Tuesday
+
+**Today's Progress**: Solved another algo, added default color reset to project
+
+**Thoughts**: Next algo looks tough, got my whiteboard ready. Working on adding Sass to the project.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/302d12cfb155c8a4a62b0c913637e158ea3771e7
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/cbe15969f7f2d87ee3b969f106bc6290e9ee8e24
+
+ 
 
 
 
