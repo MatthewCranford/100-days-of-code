@@ -825,8 +825,17 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/cbe15969f7f2d87ee3b969f106bc6290e9ee8e24
 
  
+ ## Day 59: Febuary 28, Wednesday
 
+**Today's Progress**: Spent time trying to learn more about the orbital period formula, fixed/updated project
 
+**Thoughts**: Having trouble understanding the parameters of this formula. Hope it clicks tomorrow. Also began working on add a new feature to the project "Preset grid sizes" should be fun. 
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/0568e3be06c2ced6412e265ab5b398a3944a7eb1
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/321043b843e43b5d64cb329d59640192e24f457d
 
 
 
