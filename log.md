@@ -838,6 +838,19 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/321043b843e43b5d64cb329d59640192e24f457d
 
 
+ ## Day 60: March 1, Thursday
+
+**Today's Progress**: Solved algo, started preset grid feature, joined another group side project
+
+**Thoughts**: Only 1 algo left, lots of projects to do.
+
+**Link(s) to work**
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/997ae0c7c874253222117a8b4e1de1181c091bcf
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/a2762819ec0b685024adc9c276be8010ac563861
+
+
 
 
  
