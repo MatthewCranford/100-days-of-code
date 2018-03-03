@@ -859,9 +859,9 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 **Link(s) to work**
 
-1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/997ae0c7c874253222117a8b4e1de1181c091bcf
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/c2ddb0a156d13781314a893604163e1fd43104e2
 
-2. https://github.com/MatthewCranford/pixel-art-maker/commit/a2762819ec0b685024adc9c276be8010ac563861
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/1ee41f7047b4b9f194e9794b57ec403ed626c575
 
 
 
