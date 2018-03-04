@@ -855,7 +855,7 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 **Today's Progress**: Started final algo and worked on preset grids.
 
-**Thoughts**: Starting 2 new coursed next week. Less sleep, more code.
+**Thoughts**: Starting 2 new courses next week. Less sleep, more code.
 
 **Link(s) to work**
 
@@ -864,7 +864,20 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/1ee41f7047b4b9f194e9794b57ec403ed626c575
 
 
+## Day 62: March 3, Saturday
 
+**Today's Progress**: Wrote new blog post, Worked on algo, added preset toggles/hovers to project, and became a student leader of the final projects.
+
+**Thoughts**: Starting 2 new coursed next week. Less sleep, more code.
+
+**Link(s) to work** Soooo busy.
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/a1d0994f47ad3e753d22c9cd65d80240660bb003
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/d21f1381c2f1d2a2619662322fcb98341ef69335
+
+
+ 
 
  
 
