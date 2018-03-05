@@ -877,7 +877,7 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/d21f1381c2f1d2a2619662322fcb98341ef69335
 
 
-## Day 62: March 4, Sunday
+## Day 63: March 4, Sunday
 
 **Today's Progress**: Finished blog post, FINISHED FINAL ALGORITHM!, Start calc project, fixed bugs/refactored pixel project. Studied some Git.
 
