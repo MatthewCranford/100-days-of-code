@@ -868,15 +868,31 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 **Today's Progress**: Wrote new blog post, Worked on algo, added preset toggles/hovers to project, and became a student leader of the final projects.
 
-**Thoughts**: Starting 2 new coursed next week. Less sleep, more code.
+**Thoughts**: Soooo busy.
 
-**Link(s) to work** Soooo busy.
+**Link(s) to work** 
 
 1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/a1d0994f47ad3e753d22c9cd65d80240660bb003
 
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/d21f1381c2f1d2a2619662322fcb98341ef69335
 
 
+## Day 62: March 4, Sunday
+
+**Today's Progress**: Finished blog post, FINISHED FINAL ALGORITHM!, Start calc project, fixed bugs/refactored pixel project. Studied some Git.
+
+**Thoughts**: Today went good, caught up on a lot of work. Also started to incorporate "Toggl" a cool app. Next week is going to be busy, but I'm prepared. 
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/fcc-advanced-algorithms/commit/62e3f5f48e2dadf8bc0e76c347ff577fe63f6e83
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/57f27aa37111748a8b830ddaa1e4f39cd7449864
+
+3. https://github.com/MatthewCranford/js-calculator/commit/dc21a4dcb6887c4bc09067ba79b89da11a69575a
+
+
+ 
  
 
  
