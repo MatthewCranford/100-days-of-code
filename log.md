@@ -892,6 +892,21 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 3. https://github.com/MatthewCranford/js-calculator/commit/dc21a4dcb6887c4bc09067ba79b89da11a69575a
 
 
+ ## Day 64: March 5, Monday
+
+**Today's Progress**: Started new web dev course with Coding Dojo, worked on my git course, worked on calc project, worked on pixel project, started planning group project. I need more projects.
+
+**Thoughts**: Very busy almost forgot to log...
+
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/js-calculator/commit/22f1e2d15da3ebd2eb8c52dbfaf6756b2a7b920b
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/ad110f179c3b4a8da667dd528c97a86d9a1a47fc
+
+
+
  
  
 
