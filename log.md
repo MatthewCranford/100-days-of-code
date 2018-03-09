@@ -935,6 +935,20 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 
 
+ ## Day 67: March 8, Thursday
+
+**Today's Progress**: had python class, did web dev assignments, worked on calc project, worked on pixel project. Forked doc project. Helped other students with projects.
+
+**Thoughts**: Getting better with my time.
+
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/js-calculator/commit/9b7752c016204b4528f17f38a3fc7ad3fcc5e7c9
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/d8e1bde3200caefab9205ef9d6b82cd6343598e8
+
+
  
 
  
