@@ -963,6 +963,22 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/6b1d1897494bb5424bf76e24c3bd19cfb01ecc33
 
 
+  ## Day 69: March 10, Saturday
+
+**Today's Progress**: Blog, exam, git course, calc proj, pixel proj, student leader activities
+   
+**Thoughts**: Got more sleep today, felt WAYYY more productive.
+
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/js-calculator/commit/fb3976716083643b57dc577b2523c6164b00814b
+
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/53ee7e2cd7c8d6e9dd1723e085ecf2aa1c455cf5
+
+
+ 
+
  
 
 
