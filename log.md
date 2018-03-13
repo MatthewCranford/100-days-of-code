@@ -998,9 +998,9 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 **Link(s) to work** 
 
-1. https://github.com/MatthewCranford/pixel-art-maker/commit/092322e9a5be709e4357370273de190b462d999d
+1. https://github.com/MatthewCranford/js-calculator/commit/6a083d084be95da710df645660b69ab7dd2872fc
 
-2. https://github.com/MatthewCranford/js-calculator/commit/1fc78a4bf8b920c55b370e6ce97e271a0c7c39da
+2. https://github.com/MatthewCranford/pixel-art-maker/commit/5151cfaeb9715b46ea1cc061f66697ddfa28c3d4
 
 
  
