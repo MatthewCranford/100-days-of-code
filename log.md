@@ -1003,8 +1003,20 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/5151cfaeb9715b46ea1cc061f66697ddfa28c3d4
 
 
- 
+ ## Day 72: March 13, Tuesday
 
+**Today's Progress**: Python class, Web Dev homework, got a lot of functionality working on calc, Fixed edge bug on pixel art maker, helped on student projects.
+   
+**Thoughts**: This is going to be a busy week
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/pixel-art-maker/commit/d9cfdaae0d512fd76a3a38beadd931ea365b75f3
+
+2. https://github.com/MatthewCranford/js-calculator/commit/26a7a53f5d71464c632950eec90effa173fabf83
+
+
+ 
 
  
 
