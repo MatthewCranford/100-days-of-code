@@ -990,7 +990,7 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/js-calculator/commit/1fc78a4bf8b920c55b370e6ce97e271a0c7c39da
 
 
- ## Day 71: March 12, Monday
+## Day 71: March 12, Monday
 
 **Today's Progress**: Web dev class, git course, started calc project functionality, finished pixel project responsive design, helped on student projects.
    
@@ -1003,7 +1003,7 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/pixel-art-maker/commit/5151cfaeb9715b46ea1cc061f66697ddfa28c3d4
 
 
- ## Day 72: March 13, Tuesday
+## Day 72: March 13, Tuesday
 
 **Today's Progress**: Python class, Web Dev homework, got a lot of functionality working on calc, Fixed edge bug on pixel art maker, helped on student projects.
    
@@ -1015,6 +1015,20 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
 2. https://github.com/MatthewCranford/js-calculator/commit/26a7a53f5d71464c632950eec90effa173fabf83
 
+
+## Day 73: March 14, Wednesday
+
+**Today's Progress**: Finished class/assignments, worked on pixel/calc projects.
+   
+**Thoughts**: Getting tough to juggle so many things, but it's getting done.
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/pixel-art-maker/commit/f32530a13d5e2501cb031f216640f656400dbb2b
+
+2. https://github.com/MatthewCranford/js-calculator/commit/079b2c07a122c1b3a35aee916dfbf5e1f2d8ef92
+
+ 
 
  
 
