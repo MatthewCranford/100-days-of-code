@@ -1056,6 +1056,19 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
  
 
+ ## Day 76: March 17, Saturday
+
+**Today's Progress**: Completed my exam(waiting for results), started working on added dropper feature to pixel art maker, made a lot of progress on the calc function, and cleared how some coding homework.
+
+**Thoughts**: Busy weekend continues!
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/pixel-art-maker/commit/2eda39fd1e245f53749cdb9f04c3ecdc8b771d8c
+
+2. https://github.com/MatthewCranford/js-calculator/commit/a83a2a369343d796eed0f85f8c569dcdbf83068f
+
+ 
  
 
 
