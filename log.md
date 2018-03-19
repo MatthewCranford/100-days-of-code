@@ -1042,7 +1042,7 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 2. https://github.com/MatthewCranford/js-calculator/commit/1d579e897cfa5d164bde99d05dba58e28cc163e5
  
 
- ## Day 75: March 16, Friday
+## Day 75: March 16, Friday
 
 **Today's Progress**: Finished final Coding Dojo intro programming class, cleaned up pixel art maker code/bugs, worked on calc, and planned out team project with team members.
 
@@ -1056,7 +1056,7 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 
  
 
- ## Day 76: March 17, Saturday
+## Day 76: March 17, Saturday
 
 **Today's Progress**: Completed my exam(waiting for results), started working on added dropper feature to pixel art maker, made a lot of progress on the calc function, and cleared how some coding homework.
 
@@ -1067,6 +1067,18 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 1. https://github.com/MatthewCranford/pixel-art-maker/commit/2eda39fd1e245f53749cdb9f04c3ecdc8b771d8c
 
 2. https://github.com/MatthewCranford/js-calculator/commit/a83a2a369343d796eed0f85f8c569dcdbf83068f
+
+ 
+## Day 77: March 18, Sunday
+
+**Today's Progress**: Got blog post DONE and finished all my coding assignments before due tomorrow.
+
+**Thoughts**: Ready for the weekend...oh
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/pixel-art-makerhttps://github.com/MatthewCranford/pixel-art-maker
+
 
  
  
