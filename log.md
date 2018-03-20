@@ -1080,6 +1080,17 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 1. https://github.com/MatthewCranford/pixel-art-makerhttps://github.com/MatthewCranford/pixel-art-maker
 
 
+ ## Day 78: March 19, Monday
+
+**Today's Progress**: Started working on first feature for the GWG group project
+
+**Thoughts**: Fun day working with the group, feels like I can breathe again after wrapping up those 2 courses.
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/pixel-art-makerhttps://github.com/MatthewCranford/pixel-art-maker
+
+
  
  
 
