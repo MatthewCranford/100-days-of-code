@@ -1102,9 +1102,16 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 1. https://github.com/MatthewCranford/pixel-art-maker/commit/448d13c5bd7a041d68b35a6dbb70e7f09cca2c63
 
 
- 
- 
+  ## Day 80: March 21, Wednesday
 
+**Today's Progress**: Worked on git course, added eye-dropper feature in pixel art maker, worked on bars functions for group project 
+
+**Thoughts**: Everything is on track...excepts for fcc
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/7a6afebdc3bf1e8fa0806ef5fee4079a1e1cf071
  
 
 
