@@ -1091,7 +1091,20 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 1. https://github.com/MatthewCranford/pixel-art-makerhttps://github.com/MatthewCranford/pixel-art-maker
 
 
+  ## Day 79: March 20, Tuesday
+
+**Today's Progress**: Made a lot of progress on my git course, worked on the group project code, refactored pixel art maker js, daily slack channel project help
+
+**Thoughts**: Gits starting to make sense.
+
+**Link(s) to work** 
+
+1. https://github.com/MatthewCranford/pixel-art-maker/commit/448d13c5bd7a041d68b35a6dbb70e7f09cca2c63
+
+
  
+ 
+
  
 
 
