@@ -1114,7 +1114,28 @@ https://github.com/MatthewCranford/fcc-intermediate-algorithms/commit/b44f1803de
 https://github.com/MatthewCranford/pixel-art-maker/commit/7a6afebdc3bf1e8fa0806ef5fee4079a1e1cf071
  
 
+  ## Day 81: March 22, Thursday
 
+**Today's Progress**: Worked on git course, started save feature, worked on group project, and put together a student project challenge event. 
+
+**Thoughts**: Lots of new concepts today, just when you think your starting to know how it all works...
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/e012ae7719b45b49b2f52d5e02d4fe614c9dfd95
+
+ 
+  ## Day 82: March 23, Friday
+
+**Today's Progress**: Worked on git course, continue working on save feature, worked on group project (breakthrough), student project challenge event winners announced. 
+
+**Thoughts**: Code I'm working on for the group project is starting to make sense. Learning so much from this project and my fellow students.
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/5a9ad7242d1bdc62eec96a7f229858a2de95a3bf
  
  
  
