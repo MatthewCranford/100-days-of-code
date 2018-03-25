@@ -1138,6 +1138,17 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/e012ae7719b45b49b2f52d
 https://github.com/MatthewCranford/pixel-art-maker/commit/5a9ad7242d1bdc62eec96a7f229858a2de95a3bf
  
  
+  ## Day 83: March 24, Saturday
+
+**Today's Progress**: All day GWG Pizza Party, spent a few minutes refactoring my pixel art maker
+
+**Thoughts**: Really busy day, being a student leader helped a lot of student's with their questions/projects and work on crossing the course deadline.
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/38ea3273b29bebcf0070a7c5c71d3b54fb1c10c0
+ 
  
 
  
