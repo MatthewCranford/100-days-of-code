@@ -1150,6 +1150,16 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/5a9ad7242d1bdc62eec96a
 https://github.com/MatthewCranford/pixel-art-maker/commit/38ea3273b29bebcf0070a7c5c71d3b54fb1c10c0
  
  
+  ## Day 84: March 25, Sunday
+
+**Today's Progress**: Got the blog post done!
+
+**Thoughts**: Started a walkthrough for the Pixel Art Maker, finished part 1. A lot went into it and it took some time, but I like the way it shaped up. Still tired from yesterday, but the grind continues.
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/project-pixel-art-maker-starter/commit/5f417f1eb507a315a2a04fc65d65e3d82d62b046
 
  
 
