@@ -1162,6 +1162,18 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/38ea3273b29bebcf0070a7
 https://github.com/MatthewCranford/project-pixel-art-maker-starter/commit/5f417f1eb507a315a2a04fc65d65e3d82d62b046
 
  
+  ## Day 85: March 26, Monday
+
+**Today's Progress**: Launched part 1 of walkthrough, started working on part 2, worked on my git course, made "progress" on save feature, and breakthrough on the group project code
+
+**Thoughts**: less than 3 weeks, time to stay focused
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/2049fc7e5e100cb2193ae3d6488256c5bd043ff6
+
+ 
 
  
 
