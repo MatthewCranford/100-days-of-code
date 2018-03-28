@@ -1174,6 +1174,18 @@ https://github.com/MatthewCranford/project-pixel-art-maker-starter/commit/5f417f
 https://github.com/MatthewCranford/pixel-art-maker/commit/2049fc7e5e100cb2193ae3d6488256c5bd043ff6
 
  
+  ## Day 86: March 27, Tuesday
+
+**Today's Progress**: Worked on part 2 of walkthrough, got a few more lessons done on git, and spent the rest of the days getting the bars working on the group project
+
+**Thoughts**: GAME TIME
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/create-your-own-adventure
+
+ 
 
  
 
