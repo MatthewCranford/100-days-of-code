@@ -1186,6 +1186,20 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/2049fc7e5e100cb2193ae3
 https://github.com/MatthewCranford/create-your-own-adventure
 
  
+  ## Day 87: March 28, Wednesday
+
+**Today's Progress**: Worked on bit on part 2 of walkthrough, finished git course, and completed writing the progress bars for the group project
+
+**Thoughts**: Got a lot done today, tomorrow can begin work on things that have been getting neglected.
+
+**Link(s) to work** 
+
+1. 
+https://github.com/udacity/create-your-own-adventure/pull/9116
+
+2. 
+https://github.com/MatthewCranford/SPA-GWG-progress-list/commit/b0b949e040f6e238b852fa7d270ba02098d0992b
+ 
 
  
 
