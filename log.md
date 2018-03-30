@@ -1201,6 +1201,20 @@ https://github.com/udacity/create-your-own-adventure/pull/9116
 https://github.com/MatthewCranford/SPA-GWG-progress-list/commit/b0b949e040f6e238b852fa7d270ba02098d0992b
  
 
+  ## Day 88: March 29, Thursday
+
+**Today's Progress**: Got part 2 of the walkthrough out after popular demand for it. Setup a deadline for the group project (This Monday!), and picked the winners for this weeks "Get Featured" challenge.
+
+**Thoughts**: Got a lot left to do before April 11th
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/cfc00da150ddbcb8d937f355a18b38645b83e150
+
+
+ 
+
  
 
 
