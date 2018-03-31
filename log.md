@@ -1213,6 +1213,17 @@ https://github.com/MatthewCranford/SPA-GWG-progress-list/commit/b0b949e040f6e238
 https://github.com/MatthewCranford/pixel-art-maker/commit/cfc00da150ddbcb8d937f355a18b38645b83e150
 
 
+  ## Day 89: March 30, Friday
+
+**Today's Progress**: Started work on part 3 (never done this much writing before),
+submitted code for a second group project I'm working on, as well as make sure my other group project meets Mondays deadline, also solved bug with pixel art maker save feature
+
+**Thoughts**: Need to get walkthrough out soon
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/48516db2eff215f11d1749b1f492a71741b09491
  
 
  
