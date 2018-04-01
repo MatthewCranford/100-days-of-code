@@ -1226,6 +1226,16 @@ submitted code for a second group project I'm working on, as well as make sure m
 https://github.com/MatthewCranford/pixel-art-maker/commit/48516db2eff215f11d1749b1f492a71741b09491
  
 
+  ## Day 90: March 31, Saturday
+
+**Today's Progress**: Got the save/load feature working on the pixel art maker, and finished part 3 of the walkthrough
+
+**Thoughts**: 1 more part of the walkthrough to get out, Can't believe theres only 10 more days left... not sure what i'll do without this challenge. Another month of Git in the books!
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/1e27bc027447bde4f1bc289d75932d35d402c4ab
  
 
 
