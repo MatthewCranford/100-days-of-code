@@ -1251,6 +1251,17 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/4780763222baa684745222
 
  
 
+  ## Day 92: April 2, Monday
+
+**Today's Progress**: It's LAUNCH day. Chugged a few 100mgs of caffeine and got group project out for deadline. Really fun experience growing an idea to a full application, as well as working with a team.
+
+**Thoughts**: Learned so much from this course and project(s)
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/SPA-GWG-progress-list/commit/14265aab886c682bafd4a9e3a8df93c4c70ba00f
+
 
  
  
