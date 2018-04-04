@@ -1263,7 +1263,16 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/4780763222baa684745222
 https://github.com/MatthewCranford/SPA-GWG-progress-list/commit/14265aab886c682bafd4a9e3a8df93c4c70ba00f
 
 
- 
+  ## Day 93: April 3, Tuesday
+
+**Today's Progress**: Wrote the final part of my Pixel Art Maker walkthrough, started working on adding a nav menu to my Pixel Art Maker.
+
+**Thoughts**: Final 8 days of GWG challenge
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/597fe9d1e95a79a8b404673c8d2b3dedcb198a58
  
  
 
