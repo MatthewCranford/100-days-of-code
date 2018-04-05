@@ -1274,6 +1274,17 @@ https://github.com/MatthewCranford/SPA-GWG-progress-list/commit/14265aab886c682b
 1. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/597fe9d1e95a79a8b404673c8d2b3dedcb198a58
  
+
+  ## Day 94: April 4, Wednesday
+
+**Today's Progress**: Started writing new Bonus series for the Pixel Art Maker walkthrough and worked on dropdown menu
+
+**Thoughts**: Feel like I'm losing momentum as I get closer to the finish line, need to double my efforts not slow down.
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/7324323625653bae5036c5a3f00a752b403e500d
  
 
  
