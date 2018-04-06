@@ -1287,6 +1287,17 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/597fe9d1e95a79a8b40467
 https://github.com/MatthewCranford/pixel-art-maker/commit/7324323625653bae5036c5a3f00a752b403e500d
  
 
+  ## Day 95: April 5, Thursday
+
+**Today's Progress**: Worked on new bonus series, got menu working for Pixel Art Maker, and picked the winners for the final "Get Featured" challenge. 
+
+**Thoughts**: Felt refocused today, just before the finish line is when it's easiest to lose sight of it.
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/ff77cdf6482ec54c873766c78a2bf29dbf0746c6
+
  
 
  
