@@ -1311,6 +1311,17 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/ff77cdf6482ec54c873766
 https://github.com/MatthewCranford/pixel-art-maker/commit/9fca55272e3592036ab032818b04ceb7f806c6ea
 
  
+ 
+  ## Day 97: April 7, Saturday  
+
+**Today's Progress**: Worked on Pixel Art Maker and worked on improving my code on the group project 
+
+**Thoughts**: Felt good to take a break from the writing and "write" some more code
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/1da7e268978a498d9b75ac86bd5c388a5a991b85
 
 
  
