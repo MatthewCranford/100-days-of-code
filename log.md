@@ -1303,7 +1303,7 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/ff77cdf6482ec54c873766
 
 **Today's Progress**: Finished "bonus series" article for Pixel Art Maker and worked a bit on Pixel Art Maker project 
 
-**Thoughts**: Still so much to do
+**Thoughts**: Still so much to do, need to work harder.
 
 **Link(s) to work** 
 
