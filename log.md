@@ -1299,6 +1299,16 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/7324323625653bae5036c5
 https://github.com/MatthewCranford/pixel-art-maker/commit/ff77cdf6482ec54c873766c78a2bf29dbf0746c6
 
  
+  ## Day 96: April 6, Friday  
+
+**Today's Progress**: Finished "bonus series" article for Pixel Art Maker and worked a bit on Pixel Art Maker project 
+
+**Thoughts**: Still so much to do
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/9fca55272e3592036ab032818b04ceb7f806c6ea
 
  
 
