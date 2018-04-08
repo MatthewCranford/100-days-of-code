@@ -1311,7 +1311,6 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/ff77cdf6482ec54c873766
 https://github.com/MatthewCranford/pixel-art-maker/commit/9fca55272e3592036ab032818b04ceb7f806c6ea
 
  
- 
   ## Day 97: April 7, Saturday  
 
 **Today's Progress**: Worked on Pixel Art Maker and worked on improving my code on the group project 
@@ -1324,6 +1323,14 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/9fca55272e3592036ab032
 https://github.com/MatthewCranford/pixel-art-maker/commit/1da7e268978a498d9b75ac86bd5c388a5a991b85
 
 
- 
+  ## Day 98: April 8, Sunday  
 
+**Today's Progress**: Finished second bonus chapter of walkthrough, fixed a few bugs with the new menu and added dynamic hover colors, and Messed around with the Progress Bars code
+
+**Thoughts**: Took a break from the gym and spent a lot of the day writing new blog post. Starting next week I'll be back on the normal schedule of blogging once a week. Got my walkthrough done (for now)
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/13073f640704851ac6ed736cbdfdc6820bfcad1d
 
