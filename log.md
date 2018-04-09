@@ -1334,3 +1334,14 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/1da7e268978a498d9b75ac
 1. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/13073f640704851ac6ed736cbdfdc6820bfcad1d
 
+
+  ## Day 99: April 9, Monday  
+
+**Today's Progress**: Started work on an "announcement" when the eye dropper gets a color value feature. Spent a lot of time the group project progress bars. Finally got them to decrement, but stuck on a very strange "Edge" bug, It's eluding me...for now
+
+**Thoughts**: Hard to believe it's almost been 100 days. So much has happened...
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker/commit/d51591545f07bb32d20cbbe3e75f9e5218b8f7c6
