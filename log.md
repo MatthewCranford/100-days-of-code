@@ -1345,3 +1345,15 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/13073f640704851ac6ed73
 
 1. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/d51591545f07bb32d20cbbe3e75f9e5218b8f7c6
+
+
+  ## Day 100: April 10, Tuesday  
+
+**Today's Progress**: Added dropper announcement and speeded up background img load time for Pixel Art Maker. Still debugging progress bars...Also started new React 4 day bootcamp
+
+**Thoughts**: Day 100!? Even though I didn't hit the goals I set in day 1,because I decided to dedicate a 100% to pursuing an opportunity to earn a scholarship through GWG, I built a great habit that wont end here. 
+
+**Link(s) to work** 
+
+1. 
+https://github.com/MatthewCranford/pixel-art-maker
