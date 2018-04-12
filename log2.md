@@ -11,3 +11,16 @@ My goals for this round are to "code"
 **Link(s) to work** 
 1. 
 https://github.com/MatthewCranford/pixel-art-maker/commit/f12a6b131228651b766c53216836064952e87a82
+
+
+## R2 Day 2: April 12, Thursday  
+
+**Today's Progress**: Learned a bit about webpack, did a few post GWG course activities and said some goodbyes, worked on the calc project, and attending final day of React Bootcamp. 
+
+**Thoughts**: R2D2! 
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/js-calculator/commit/2e200f6d637b445e41867b1a928eb0b131f5a926
+
+
