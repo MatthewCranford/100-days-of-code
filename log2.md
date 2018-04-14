@@ -24,3 +24,13 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/f12a6b131228651b766c53
 https://github.com/MatthewCranford/js-calculator/commit/2e200f6d637b445e41867b1a928eb0b131f5a926
 
 
+## R2 Day 3: April 13, Friday  
+
+**Today's Progress**: Learned more on JS, Began refactoring calc, and enjoyed all the GWG content released today on jobs and resumes
+
+**Thoughts**: Got a lot of great information I can use to "refactor" the my resume
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/js-calculator
+
