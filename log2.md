@@ -44,3 +44,14 @@ https://github.com/MatthewCranford/js-calculator/commit/759cda49ca5a5185be63322a
 **Link(s) to work** 
 1. 
 https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d284c2d93b6b125c3f3
+
+
+## R2 Day 5: April 16, Sunday  
+
+**Today's Progress**: Watched some coding tech, finished blog post for tomorrow, and worked on the calculator. 
+
+**Thoughts**: Got some good coding time in on the calc project
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d284c2d93b6b125c3f3
