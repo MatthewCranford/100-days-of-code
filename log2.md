@@ -54,4 +54,4 @@ https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d28
 
 **Link(s) to work** 
 1. 
-https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d284c2d93b6b125c3f3
+https://github.com/MatthewCranford/js-calculator/commit/c589bdc4c113289c989834b0dc839a3e903391a8
