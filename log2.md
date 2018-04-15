@@ -34,3 +34,13 @@ https://github.com/MatthewCranford/js-calculator/commit/2e200f6d637b445e41867b1a
 1. 
 https://github.com/MatthewCranford/js-calculator/commit/759cda49ca5a5185be63322a0781c2f7d40ab63a
 
+
+## R2 Day 4: April 15, Saturday  
+
+**Today's Progress**: Spent my breakfast with a Coding Tech on "Rust", Caught up on my messages this week, finished the GWG "careers" course, and solved one of the core functionalities of the Calc project. 
+
+**Thoughts**: Got a lot of things I've been putting off "done" today. Hope to get in some more coding tomorrow, oh wait.. blog (let's try and get it done in 4 pomos!)
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d284c2d93b6b125c3f3
