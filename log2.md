@@ -35,7 +35,7 @@ https://github.com/MatthewCranford/js-calculator/commit/2e200f6d637b445e41867b1a
 https://github.com/MatthewCranford/js-calculator/commit/759cda49ca5a5185be63322a0781c2f7d40ab63a
 
 
-## R2 Day 4: April 15, Saturday  
+## R2 Day 4: April 14, Saturday  
 
 **Today's Progress**: Spent my breakfast with a Coding Tech on "Rust", Caught up on my messages this week, finished the GWG "careers" course, and solved one of the core functionalities of the Calc project. 
 
@@ -46,7 +46,7 @@ https://github.com/MatthewCranford/js-calculator/commit/759cda49ca5a5185be63322a
 https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d284c2d93b6b125c3f3
 
 
-## R2 Day 5: April 16, Sunday  
+## R2 Day 5: April 15, Sunday  
 
 **Today's Progress**: Watched some coding tech, finished blog post for tomorrow, and worked on the calculator. 
 
@@ -55,3 +55,14 @@ https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d28
 **Link(s) to work** 
 1. 
 https://github.com/MatthewCranford/js-calculator/commit/c589bdc4c113289c989834b0dc839a3e903391a8
+
+
+## R2 Day 6: April 16, Monday  
+
+**Today's Progress**: Watched some coding tech on JS native game dev and React render, got current on github uploads, and updated my resume/LinkedIn with my new knowledge
+
+**Thoughts**: Got a lot of tasks done on my calender
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/react-bootcamp/commit/1b767c62ca6fb5c171216affabf74fc59cf49b0d
