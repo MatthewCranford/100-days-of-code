@@ -48,7 +48,7 @@ https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d28
 
 ## R2 Day 5: April 15, Sunday  
 
-**Today's Progress**: Watched some coding tech, finished blog post for tomorrow, and worked on the calculator. 
+**Today's Progress**: Watched some Coding Tech, finished blog post for tomorrow, and worked on the calculator. 
 
 **Thoughts**: Got some good coding time in on the calc project
 
@@ -59,10 +59,21 @@ https://github.com/MatthewCranford/js-calculator/commit/c589bdc4c113289c989834b0
 
 ## R2 Day 6: April 16, Monday  
 
-**Today's Progress**: Watched some coding tech on JS native game dev and React render, got current on github uploads, and updated my resume/LinkedIn with my new knowledge
+**Today's Progress**: Watched some Coding Tech on JS native game dev and React render, got current on github uploads, and updated my resume/LinkedIn with my new knowledge
 
 **Thoughts**: Got a lot of tasks done on my calender
 
 **Link(s) to work** 
 1. 
 https://github.com/MatthewCranford/react-bootcamp/commit/1b767c62ca6fb5c171216affabf74fc59cf49b0d
+
+
+## R2 Day 7: April 17, Tuesday  
+
+**Today's Progress**: Watched some Coding Tech on microarchitectures and Marko, Found the IE bug that's been plaguing my group project!, Tried out using BEM on my calc project, and spent too much time staring at my inbox for new on GWG Scholarship...
+
+**Thoughts**: I know I gave it my all for this scholarship and I'm confident, but I still really want it.
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/js-calculator/commit/9f5051cbad665cbb9b3560cf98e120e2302b3cbb
