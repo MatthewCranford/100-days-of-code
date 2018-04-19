@@ -77,3 +77,14 @@ https://github.com/MatthewCranford/react-bootcamp/commit/1b767c62ca6fb5c171216af
 **Link(s) to work** 
 1. 
 https://github.com/MatthewCranford/js-calculator/commit/9f5051cbad665cbb9b3560cf98e120e2302b3cbb
+
+
+## R2 Day 8: April 18, Wednesday  
+
+**Today's Progress**: So I got that Scholarship! I start next week. Work all day on refactoring my group project code, happy with how much I improved it. Also got the decimal and upper limit working on the Calc project
+
+**Thoughts**: This scholarship wasn't easy, It will all be worth it one day.
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/js-calculator/commit/2d57bc91b8ab1b8f5742c384a3bd7d6abde93bcd
