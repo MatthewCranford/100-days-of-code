@@ -88,3 +88,14 @@ https://github.com/MatthewCranford/js-calculator/commit/9f5051cbad665cbb9b3560cf
 **Link(s) to work** 
 1. 
 https://github.com/MatthewCranford/js-calculator/commit/2d57bc91b8ab1b8f5742c384a3bd7d6abde93bcd
+
+
+## R2 Day 9: April 19, Thursday  
+
+**Today's Progress**: First day in months I got to sit down with the calc project and really put some hours into it. Project meets all the minimum requirements, but it has met mine yet
+
+**Thoughts**: Feeling like I'm starting to get good at this
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/js-calculator/commit/3f7e0218b8ac0743bc9b2ae73f874422b0f14225
