@@ -99,3 +99,14 @@ https://github.com/MatthewCranford/js-calculator/commit/2d57bc91b8ab1b8f5742c384
 **Link(s) to work** 
 1. 
 https://github.com/MatthewCranford/js-calculator/commit/3f7e0218b8ac0743bc9b2ae73f874422b0f14225
+
+
+## R2 Day 10: April 20, Friday  
+
+**Today's Progress**: Been putting "Clean Code" into practice on the calc project today, also messed around with a bit of npm with ESLint and TS 
+
+**Thoughts**: A lot I want to do this weekend, I want to finish up this calc project and start next one
+
+**Link(s) to work** 
+1. 
+https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e835e0ff83330f004f
