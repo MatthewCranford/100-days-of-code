@@ -109,12 +109,22 @@ https://github.com/MatthewCranford/js-calculator/commit/3f7e0218b8ac0743bc9b2ae7
 
 **Link(s) to work** 
 1. 
-https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e835e0ff83330f004f## R2 Day 10: April 20, Friday  
+https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e835e0ff83330f004f## 
 
-**Today's Progress**: Been putting "Clean Code" into practice on the calc project today, also messed around with a bit of npm with ESLint and TS 
 
-**Thoughts**: A lot I want to do this weekend, I want to finish up this calc project and start next one
+R2 Day 11: April 21, Saturday  
+
+**Today's Progress**: Worked on designing some D3 styled orbs for the new mobile layout for my group project event learned some css in the process. Worked a bit on calc project
+
+**Thoughts**: Calc project deadline tomorrow
 
 **Link(s) to work** 
-1. 
-https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e835e0ff83330f004f
+1. Orbs
+https://github.com/MatthewCranford/progress-orbs/commit/55c1a5d602fe5efd031cb81d1f4bde113fdd36c7
+
+1. Calc
+https://github.com/MatthewCranford/js-calculator/commit/14cfd51fead1977e289c804f5b0fd2c2b37ded24
+
+
+
+
