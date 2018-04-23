@@ -112,7 +112,7 @@ https://github.com/MatthewCranford/js-calculator/commit/3f7e0218b8ac0743bc9b2ae7
 https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e835e0ff83330f004f## 
 
 
-R2 Day 11: April 21, Saturday  
+## R2 Day 11: April 21, Saturday  
 
 **Today's Progress**: Worked on designing some D3 styled orbs for the new mobile layout for my group project event learned some css in the process. Worked a bit on calc project
 
@@ -124,6 +124,20 @@ https://github.com/MatthewCranford/progress-orbs/commit/55c1a5d602fe5efd031cb81d
 
 1. Calc
 https://github.com/MatthewCranford/js-calculator/commit/14cfd51fead1977e289c804f5b0fd2c2b37ded24
+
+
+## R2 Day 12: April 22, Sunday  
+
+**Today's Progress**: Finished writing tomorrows blog post, shipping calc project out to family/friends for testing, worked some css highlights for the orbs
+
+**Thoughts**: Tough day finding something to write, but it got done
+
+**Link(s) to work** 
+1. Calc
+https://github.com/MatthewCranford/js-calculator/commit/64aa194ae6286af334d102b2721a37064387a0a7
+
+1. Orbs
+https://github.com/MatthewCranford/progress-orbs
 
 
 
