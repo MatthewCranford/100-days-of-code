@@ -140,5 +140,19 @@ https://github.com/MatthewCranford/js-calculator/commit/64aa194ae6286af334d102b2
 https://github.com/MatthewCranford/progress-orbs
 
 
+## R2 Day 13: April 23, Monday  
+
+**Today's Progress**: Rewrote entire article, Worked on Orb design, and refactored calculator project before submitting
+
+**Thoughts**: Nanodegree tomorrow!
+
+**Link(s) to work** 
+1. Calc
+https://github.com/MatthewCranford/js-calculator/commit/87ab1a3b2e1bd79bf0a4208dae2678fc9731547f
+
+1. Orbs
+https://github.com/MatthewCranford/progress-orbs/commit/e8197d8ccc3880785c8983b174449a98a65bcc5d
+
+
 
 
