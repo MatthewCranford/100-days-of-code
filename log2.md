@@ -122,7 +122,7 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 1. Orbs
 https://github.com/MatthewCranford/progress-orbs/commit/55c1a5d602fe5efd031cb81d1f4bde113fdd36c7
 
-1. Calc
+2. Calc
 https://github.com/MatthewCranford/js-calculator/commit/14cfd51fead1977e289c804f5b0fd2c2b37ded24
 
 
@@ -136,7 +136,7 @@ https://github.com/MatthewCranford/js-calculator/commit/14cfd51fead1977e289c804f
 1. Calc
 https://github.com/MatthewCranford/js-calculator/commit/64aa194ae6286af334d102b2721a37064387a0a7
 
-1. Orbs
+2. Orbs
 https://github.com/MatthewCranford/progress-orbs
 
 
@@ -150,8 +150,19 @@ https://github.com/MatthewCranford/progress-orbs
 1. Calc
 https://github.com/MatthewCranford/js-calculator/commit/87ab1a3b2e1bd79bf0a4208dae2678fc9731547f
 
-1. Orbs
+2. Orbs
 https://github.com/MatthewCranford/progress-orbs/commit/e8197d8ccc3880785c8983b174449a98a65bcc5d
+
+
+## R2 Day 14: April 24, Tuesday  
+
+**Today's Progress**: Started Nanodegree! Had orientation and completed the first "Lab"
+
+**Thoughts**: It's going to be a busy 6 months, lets do it
+
+**Link(s) to work** 
+1. Animal Card
+https://github.com/MatthewCranford/animal-trading-cards/commit/f3e49077e56a20be0a5c49361a295fd8f21194bb
 
 
 
