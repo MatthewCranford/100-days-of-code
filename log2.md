@@ -165,5 +165,17 @@ https://github.com/MatthewCranford/progress-orbs/commit/e8197d8ccc3880785c8983b1
 https://github.com/MatthewCranford/animal-trading-cards/commit/f3e49077e56a20be0a5c49361a295fd8f21194bb
 
 
+## R2 Day 15: April 25, Wednesday  
+
+**Today's Progress**: Hit the Nanodegree hard today, learned a lot on responsive design patterns with media queries and flex-box
+
+**Thoughts**: A lot clicked today with CSS
+
+**Link(s) to work** 
+1. FEND
+https://github.com/MatthewCranford/fend-quiz-hometown/commit/bc8c88de3520a5217b95171c0fcfd66a7c0071c5
+https://github.com/MatthewCranford/fend-quiz-pattern-mostly-fluid/commit/4c59ff84d9f9db6080a0ebdb52f559c570432fba
+
+
 
 
