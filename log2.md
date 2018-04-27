@@ -177,5 +177,13 @@ https://github.com/MatthewCranford/fend-quiz-hometown/commit/bc8c88de3520a5217b9
 https://github.com/MatthewCranford/fend-quiz-pattern-mostly-fluid/commit/4c59ff84d9f9db6080a0ebdb52f559c570432fba
 
 
+## R2 Day 16: April 26, Thursday  
 
+**Today's Progress**: Still working on those responsive design skills 
+
+**Thoughts**: Trying to get flex order to work...
+
+**Link(s) to work** 
+1. FEND
+https://github.com/MatthewCranford/fend-quiz-hometown/commit/02e318c4c03ac3263ca827a3c766361f7829ed65
 
