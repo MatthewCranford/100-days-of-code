@@ -187,3 +187,17 @@ https://github.com/MatthewCranford/fend-quiz-pattern-mostly-fluid/commit/4c59ff8
 1. FEND
 https://github.com/MatthewCranford/fend-quiz-hometown/commit/02e318c4c03ac3263ca827a3c766361f7829ed65
 
+
+## R2 Day 17: April 27, Friday  
+
+**Today's Progress**: Got lots of practice in with flexbox and started learning more about responsive images
+
+**Thoughts**: Flexbox is making more sense, realizing I need to learn more on images
+
+**Link(s) to work** 
+1. FEND
+https://github.com/MatthewCranford/fend-quiz-hometown/commit/e3ae56330d7e7314070242548362d760d97a7f8b
+
+1. Responsive Images
+https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/c3e71af5ad9b3a63122fe9ce7d6bab10f4307ac1
+
