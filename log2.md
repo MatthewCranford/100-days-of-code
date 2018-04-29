@@ -201,3 +201,14 @@ https://github.com/MatthewCranford/fend-quiz-hometown/commit/e3ae56330d7e7314070
 1. Responsive Images
 https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/c3e71af5ad9b3a63122fe9ce7d6bab10f4307ac1
 
+
+## R2 Day 18: April 28, Saturday  
+
+**Today's Progress**: Cleaned out my workspace and my mind, Also got Grunt to work with ImageMagick on windows! Passed first part of project
+
+**Thoughts**: Lots still to do
+
+**Link(s) to work** 
+1. Responsive Images
+https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/46993b621e58770440cb4abc64b0d69c8d8d8cce
+
