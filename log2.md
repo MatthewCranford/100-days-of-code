@@ -215,7 +215,7 @@ https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/comm
 
 ## R2 Day 19: April 29, Sunday  
 
-**Today's Progress**: Finished tomorrow blog post and finsished another section of Responsive Images Course. 
+**Today's Progress**: Finished tomorrow blog post and finished another section of Responsive Images Course. 
 
 **Thoughts**: Really starting to understand image optimization
 
