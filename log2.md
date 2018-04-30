@@ -212,3 +212,13 @@ https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/comm
 1. Responsive Images
 https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/46993b621e58770440cb4abc64b0d69c8d8d8cce
 
+
+## R2 Day 19: April 29, Sunday  
+
+**Today's Progress**: Finished tomorrow blog post and finsished another section of Responsive Images Course. 
+
+**Thoughts**: Really starting to understand image optimization
+
+**Link(s) to work** 
+1. Responsive Images
+https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/0124980c86c0f19ec622bf5959b79131404a45b2
