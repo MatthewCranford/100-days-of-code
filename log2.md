@@ -222,3 +222,14 @@ https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/comm
 **Link(s) to work** 
 1. Responsive Images
 https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/0124980c86c0f19ec622bf5959b79131404a45b2
+
+
+## R2 Day 20: April 30, Monday  
+
+**Today's Progress**: Close to finishing Responsive Images Course. 
+
+**Thoughts**: Learned a lot from this detour
+
+**Link(s) to work** 
+1. Responsive Images
+https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/42f647f828332d803524a37e92ece0c5f9e217d4
