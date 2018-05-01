@@ -233,3 +233,14 @@ https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/comm
 **Link(s) to work** 
 1. Responsive Images
 https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/42f647f828332d803524a37e92ece0c5f9e217d4
+
+
+## R2 Day 21: May, Tuesday  
+
+**Today's Progress**: Finished final part of Home Town App Project, ran into errors hosting my ocde, found the problem, found errors with the solution to problem, and I'm still working on the problem. Just another day of coding!
+
+**Thoughts**: Lots of errors!
+
+**Link(s) to work** 
+1. Responsive Images
+https://github.com/MatthewCranford/fend-quiz-hometown/commit/b2501fba2b1345477378e6c8cf04fbf0747570c1
