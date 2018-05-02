@@ -235,12 +235,26 @@ https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/comm
 https://github.com/MatthewCranford/udacity-responsive-images-project-part-1/commit/42f647f828332d803524a37e92ece0c5f9e217d4
 
 
-## R2 Day 21: May, Tuesday  
+## R2 Day 21: May 1, Tuesday  
 
-**Today's Progress**: Finished final part of Home Town App Project, ran into errors hosting my ocde, found the problem, found errors with the solution to problem, and I'm still working on the problem. Just another day of coding!
+**Today's Progress**: Finished final part of Home Town App Project, ran into errors hosting my code, found the problem, found errors with the solution to problem, and I'm still working on the problem. Just another day of coding!
 
 **Thoughts**: Lots of errors!
 
 **Link(s) to work** 
 1. Responsive Images
 https://github.com/MatthewCranford/fend-quiz-hometown/commit/b2501fba2b1345477378e6c8cf04fbf0747570c1
+
+
+## R2 Day 22: May 2, Wednesday  
+
+**Today's Progress**: Finished final touches on Hometown App, started working on first official Nanodegree Project, the "Portfolio", due next week. Oh and I need more things to do so I start my Data Science Scholarship challenge next week. 
+
+**Thoughts**: Time to code
+
+**Link(s) to work** 
+1. FEND Hometown App
+https://github.com/MatthewCranford/udacity-fend-hometown/commit/a2243d74ff5de7ec35a8aa61089f70f7f52c804e
+
+2. FEND Hometown App
+https://github.com/MatthewCranford/udacity-fend-portfolio/commit/57e5a144e460e877cdee3220fca7200f16e31c27
