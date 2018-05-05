@@ -291,3 +291,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  FEND Portfolio Project
     https://github.com/MatthewCranford/udacity-fend-portfolio/commit/e1a63411cb65b0b016f33801fd63f96ff3f4fe9d
+
+## R2 Day 25: May 5, Saturday
+
+**Today's Progress**: Finished the projects and contact sections of the webpage, only thing left is to plug in a few media queries. Looks like I'm on track for May 10th deadline #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Looking good...
+
+**Link(s) to work**
+
+1.  FEND Portfolio Project
+    https://github.com/MatthewCranford/udacity-fend-portfolio/commit/e1a63411cb65b0b016f33801fd63f96ff3f4fe9d
