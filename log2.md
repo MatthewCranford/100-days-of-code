@@ -267,7 +267,7 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 1.  FEND Hometown App
     https://github.com/MatthewCranford/udacity-fend-hometown/commit/a2243d74ff5de7ec35a8aa61089f70f7f52c804e
 
-2.  FEND Hometown App
+2.  FEND Portfolio Project
     https://github.com/MatthewCranford/udacity-fend-portfolio/commit/57e5a144e460e877cdee3220fca7200f16e31c27
 
 ## R2 Day 23: May 3, Thursday
@@ -278,5 +278,16 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 **Link(s) to work**
 
-1.  FEND Hometown App
+1.  FEND Portfolio Project
     https://github.com/MatthewCranford/udacity-fend-portfolio/commit/d3307ad12ea04e059423ff88fccaace7d14cd9e7
+
+## R2 Day 24: May 4, Friday
+
+**Today's Progress**: Spent the day working on my portfolio project, updated the hero image, added a menu drawer, new about me section, and started on the project section. the 4th was with me today
+
+**Thoughts**: Really impressed with what I've built
+
+**Link(s) to work**
+
+1.  FEND Portfolio Project
+    https://github.com/MatthewCranford/udacity-fend-portfolio/commit/e1a63411cb65b0b016f33801fd63f96ff3f4fe9d
