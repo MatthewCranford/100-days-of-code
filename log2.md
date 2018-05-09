@@ -324,3 +324,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  FEND Portfolio Project
     https://github.com/MatthewCranford/udacity-fend-portfolio/commit/a4ee4a01ae93f1f71b47e330556e9e569ee6a55e
+
+## R2 Day 28: May 8, Tuesday
+
+**Today's Progress**: Started first day of Data Science learning about statistics, Spent too much time trying to chase perfection, but got the flex layout I wanted. Tomorrow is deadline.
+
+**Thoughts**: Really need to submit this proj...
+
+**Link(s) to work**
+
+1.  FEND Portfolio Project
+    https://github.com/MatthewCranford/udacity-fend-portfolio/commit/db3abc7c2e079b11ce11a50bc92ac52cd00dbb95
