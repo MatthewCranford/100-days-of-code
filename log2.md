@@ -335,3 +335,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  FEND Portfolio Project
     https://github.com/MatthewCranford/udacity-fend-portfolio/commit/db3abc7c2e079b11ce11a50bc92ac52cd00dbb95
+
+## R2 Day 29: May 9, Wednesday
+
+**Today's Progress**: Charted my scatter plot graph in my Data Science course. Put the final touches on my Portfolio for submission
+
+**Thoughts**: Project 1 complete
+
+**Link(s) to work**
+
+1.  FEND Portfolio Project
+    https://github.com/MatthewCranford/udacity-fend-portfolio/commit/4265ffce4f0d76bc220df605649630cd39006973
