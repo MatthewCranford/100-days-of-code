@@ -338,7 +338,7 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 ## R2 Day 29: May 9, Wednesday
 
-**Today's Progress**: Charted my scatter plot graph in my Data Science course. Put the final touches on my Portfolio for submission
+**Today's Progress**: Charted my scatter plot graph in my Data Science course and put the final touches on my Portfolio for submission.
 
 **Thoughts**: Project 1 complete
 
