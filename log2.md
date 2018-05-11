@@ -346,3 +346,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  FEND Portfolio Project
     https://github.com/MatthewCranford/udacity-fend-portfolio/commit/4265ffce4f0d76bc220df605649630cd39006973
+
+## R2 Day 30: May 10, Thursday
+
+**Today's Progress**: Worked through some Data Science quizzes, started new lessons on ES6, and began work on a pomodoro clock. Juggling 3 goals right now!
+
+**Thoughts**: Time management!
+
+**Link(s) to work**
+
+1.  Pomo Clock
+    https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/4bba5df89f904a0c5a4b471bec30a204db129755
