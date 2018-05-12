@@ -357,3 +357,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Pomo Clock
     https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/4bba5df89f904a0c5a4b471bec30a204db129755
+
+## R2 Day 31: May 11, Saturday
+
+**Today's Progress**: Reworked the Pomo Timer design and began working with the code to get the timer working. I have a few ideas using Time interval I'll try tomorrow
+
+**Thoughts**: Staying strong at 14 pomos a day
+
+**Link(s) to work**
+
+1.  Pomo Clock
+    https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/e329d62337ea2c2ddfec10c48b313b3198f1bbd5
