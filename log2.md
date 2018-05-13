@@ -358,7 +358,7 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 1.  Pomo Clock
     https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/4bba5df89f904a0c5a4b471bec30a204db129755
 
-## R2 Day 31: May 11, Saturday
+## R2 Day 31: May 11, Friday
 
 **Today's Progress**: Reworked the Pomo Timer design and began working with the code to get the timer working. I have a few ideas using Time interval I'll try tomorrow
 
@@ -368,3 +368,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Pomo Clock
     https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/e329d62337ea2c2ddfec10c48b313b3198f1bbd5
+
+## R2 Day 32: May 12, Saturday
+
+**Today's Progress**: Learned more about google spreadsheets, working through GitHub course, and got the timer working on the Pomo Clock
+
+**Thoughts**: Spread thin, but good progress
+
+**Link(s) to work**
+
+1.  Pomo Clock
+    https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/fefaea4dcb0c5ad94d5ad65b70132cfa9286ff07
