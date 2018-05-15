@@ -390,3 +390,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Pomo Clock
     https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/b24dafd119d2acfe7253b859154526d88f704df2
+
+## R2 Day 34: May 14, Monday
+
+**Today's Progress**: More statistics, more gits, and more errors on the Pomo Clock #moreCodeMoreProblems
+
+**Thoughts**: Pomo clock coming together...slowly
+
+**Link(s) to work**
+
+1.  Pomo Clock
+    https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/c311538091bfe98f2743ea615862ca4848dac8d6
