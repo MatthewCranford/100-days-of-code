@@ -412,3 +412,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Pomo Clock
     https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/78fdaff1422ab4437698d694d97dfa334e074f12
+
+## R2 Day 36: May 16, Wednesday
+
+**Today's Progress**: Went a lot more in-depth with statistic, Completed part 1 of 2 git course, and I got the break timer working! Going to make a last pass at it tomorrow before starting next project.
+
+**Thoughts**: Pomo looking good!
+
+**Link(s) to work**
+
+1.  Pomo Clock
+    https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/5a42782c7d0265f56e834e4fde1494b9d3d06a1b
