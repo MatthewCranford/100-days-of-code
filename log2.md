@@ -434,3 +434,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Pomo Clock
     https://github.com/MatthewCranford/fcc-pomodoro-clock/commit/9c356705107329efe8ef831411f630852ed119e8
+
+## R2 Day 38: May 18, Friday
+
+**Today's Progress**: More stats and gits. Started on the penultimate project, the Tic-Tac-Toe Game, looking forward to building this one.
+
+**Thoughts**: Happy birthday me
+
+**Link(s) to work**
+
+1.  Tic-Tac-Toe Game
+    https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/939a1dc20130c60186f7227945ed62da3a30f27f
