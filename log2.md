@@ -439,9 +439,20 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 **Today's Progress**: More stats and gits. Started on the penultimate project, the Tic-Tac-Toe Game, looking forward to building this one.
 
-**Thoughts**: Happy birthday me
+**Thoughts**: Let's Go!
 
 **Link(s) to work**
 
 1.  Tic-Tac-Toe Game
     https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/939a1dc20130c60186f7227945ed62da3a30f27f
+
+## R2 Day 39: May 19, Saturday
+
+**Today's Progress**: More practice with variability, finished my git course, started new course on working with DOM (Not the guy from Fast & Furious), and started working on the game functionality of my Tic-Tac-Toe game.
+
+**Thoughts**: Spread thin, but work is getting done.
+
+**Link(s) to work**
+
+1.  Tic-Tac-Toe Game
+    https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/f3c10fddc8e56fcecc82f2400c629f16c834ad11
