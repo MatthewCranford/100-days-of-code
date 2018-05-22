@@ -467,3 +467,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Tic-Tac-Toe Game
     https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/6ea91dea171fdac3541ca9024ebe339e0f186e0f
+
+## R2 Day 41: May 21, Monday
+
+**Today's Progress**: Statistics is getting both easier and harder, learned some cool things with the DOM, and didn't realize how tricky building a Tic-Tac-Toe game could be.
+
+**Thoughts**: Need more time!
+
+**Link(s) to work**
+
+1.  Tic-Tac-Toe Game
+    https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/2a1f325a51618db98df8f2febcd03ddb2a97e038
