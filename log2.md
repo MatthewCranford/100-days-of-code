@@ -477,4 +477,15 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 **Link(s) to work**
 
 1.  Tic-Tac-Toe Game
+    https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/f4166dc3a41bb5466c7cb0904fa850ebaef15802
+
+## R2 Day 42: May 22, Tuesday
+
+**Today's Progress**: Finished some statistic problem sets (not as boring as it sounds), learned a few additional tricks in the DOM/Performance course, and wrote the win logic for the Tic-Tac-Toe game.
+
+**Thoughts**: We can do this, breathe.
+
+**Link(s) to work**
+
+1.  Tic-Tac-Toe Game
     https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/2a1f325a51618db98df8f2febcd03ddb2a97e038
