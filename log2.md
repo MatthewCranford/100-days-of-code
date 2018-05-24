@@ -489,3 +489,16 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Tic-Tac-Toe Game
     https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/2a1f325a51618db98df8f2febcd03ddb2a97e038
+
+## R2 Day 43: May 23, Wednesday
+
+**Today's Progress**: Completed a few new features for the Tic-Tac-Toe Game, normalized some data distributions, finished course on DOM & optimization and started 2nd project "Build a Memory Game".
+
+**Thoughts**: Making great progress on everything
+
+**Link(s) to work**
+
+1.  Tic-Tac-Toe Game
+    https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/cadef37574a969b46d9b06d1258fcbf01a8cdf1c
+2.  Memory Game
+    https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/c9b0043d5d997ab8459865b736f91c8f59a4cb20
