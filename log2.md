@@ -502,3 +502,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
     https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/cadef37574a969b46d9b06d1258fcbf01a8cdf1c
 2.  Memory Game
     https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/c9b0043d5d997ab8459865b736f91c8f59a4cb20
+
+## R2 Day 44: May 24, Thursday
+
+**Today's Progress**: Working on coding an unbeatable Tic-Tac-Toe bot and made a lot of progress on the Memory game. I might just get this done before deadline.
+
+**Thoughts**: A lot of to juggle, stay focused!
+
+**Link(s) to work**
+
+1.  Memory Game
+    https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/61bd8591fd72a9fd237e1701f4b89739043a3509
