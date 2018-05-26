@@ -513,3 +513,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Memory Game
     https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/61bd8591fd72a9fd237e1701f4b89739043a3509
+
+## R2 Day 45: May 25, Friday
+
+**Today's Progress**: Getting better at statistics (that's what the data says anyway). Spent more time today helping others with their project than my own, but I did learn a lot so it's worth it. Lastly, Worked on my Tic-Tac-Toe bot's algorithms.
+
+**Thoughts**: Lots of coding ahead this weekend
+
+**Link(s) to work**
+
+1.  Memory Game
+    https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/61bd8591fd72a9fd237e1701f4b89739043a3509
