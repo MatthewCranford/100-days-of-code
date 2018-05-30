@@ -563,3 +563,16 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
     https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/6f7c02db5b4f90ec0d63fd7631ba3e67e6775a72
 2.  Tic-Tac-Toe
     https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/34ad5cc776efdb22e36b99c8f47e18eceaa7187b
+
+## R2 Day 49: May 28, Tuesday
+
+**Today's Progress**: More statistics (even took notes), began adding a timer clock to the Memory project, and started reworking a flaw in my Tic-Tac-Toe game's design.
+
+**Thoughts**: Not much progress...Better tomorrow
+
+**Link(s) to work**
+
+1.  Memory Game
+    https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/4805afa9bdfc7552fa658809469872ee9efb84d9
+2.  Tic-Tac-Toe
+    https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/fd3d2548651d9d1db6ec9cc368f00d7182b2baaa
