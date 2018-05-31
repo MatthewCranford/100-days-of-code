@@ -564,7 +564,7 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 2.  Tic-Tac-Toe
     https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/34ad5cc776efdb22e36b99c8f47e18eceaa7187b
 
-## R2 Day 49: May 28, Tuesday
+## R2 Day 49: May 29, Tuesday
 
 **Today's Progress**: More statistics (even took notes), began adding a timer clock to the Memory project, and started reworking a flaw in my Tic-Tac-Toe game's design.
 
@@ -576,3 +576,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
     https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/4805afa9bdfc7552fa658809469872ee9efb84d9
 2.  Tic-Tac-Toe
     https://github.com/MatthewCranford/fcc-tic-tac-toe-game/commit/fd3d2548651d9d1db6ec9cc368f00d7182b2baaa
+
+## R2 Day 50: May 30, Wednesday
+
+**Today's Progress**: Wow how'd we get to another 50 days!? Statistic concepts starting to click (finally), got my timer clock working on the memory game (final stretch!), and slowly rebuilding the tic-tac-toe game logic. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Coaching is taking up a lot of time, but I learn so much from it...dilemmas
+
+**Link(s) to work**
+
+1.  Memory Game
+    https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/58f54fd9ff7e1553ba0775348352b30c3f972d6f
