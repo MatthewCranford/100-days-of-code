@@ -633,3 +633,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Memory Game
     https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/6dc2aad654e58c8f008504fe471147b3f9b5b143
+
+## R2 Day 54: June 3, Sunday
+
+**Today's Progress**: R2D54: More Python, passed my Memory Game project review, and started on the Simon Game project. #stayingBusy #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: We passed!
+
+**Link(s) to work**
+
+1.  Memory Game
+    https://github.com/MatthewCranford/udacity-fend-project-memory-game/commit/6dc2aad654e58c8f008504fe471147b3f9b5b143
