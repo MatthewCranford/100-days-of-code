@@ -655,3 +655,14 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Simon Game
     https://github.com/MatthewCranford/fcc-simon-game/commit/4ab27291a923e873fe46b4430b9301b5a14b303b
+
+## R2 Day 56: June 5, Tuesday
+
+**Today's Progress**: R2D56: Wrote more of part 3 of the walkthrough, more python, more accessibility course, and more work on the Simon game. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: AMA tomorrow!
+
+**Link(s) to work**
+
+1.  Simon Game
+    https://github.com/MatthewCranford/fcc-simon-game/commit/6c2f737f302246b7f001c356a64ce5d8c8af13fd
