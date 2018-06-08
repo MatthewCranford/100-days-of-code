@@ -671,7 +671,21 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 **Today's Progress**: R2D57: Had a lot of fun leading a coding AMA with a fellow classmate, friend, and mentor of mine, Sachin. Worked on part 3 of walkthough #soon, learned about .zip on python, learned more on semantics, and worked on Simon game. #100DaysOfCode #301DaysOfCode
 
-**Thoughts**: AMA tomorrow!
+**Thoughts**: AMA went great
+
+**Link(s) to work**
+
+1.  Simon Game
+    https://github.com/MatthewCranford/fcc-simon-game/commit/6c2f737f302246b7f001c356a64ce5d8c8af13fd
+
+2.  FEND
+    https://github.com/MatthewCranford/ud891/commit/0774c40c91e5fd7213781b45e065cd647476e9d5
+
+## R2 Day 58: June 7, Thursday
+
+**Today's Progress**: R2D58: Walkthrough continues, worked with some Tuples, learned about ARIA, and made some nice progress of the Simon Game #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: So much to do
 
 **Link(s) to work**
 
