@@ -697,7 +697,7 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 ## R2 Day 59: June 8, Friday
 
-**Today's Progress**: R2D58: Finished part 3 of walkthrough, learned about python generators, learned more about ARIA, and worked on my Simon game. #100DaysOfCode #301DaysOfCode
+**Today's Progress**: R2D59: Finished part 3 of walkthrough, learned about python generators, learned more about ARIA, and worked on my Simon game. #100DaysOfCode #301DaysOfCode
 
 **Thoughts**: Ran into a wall on the Simon game.
 
@@ -708,3 +708,23 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 2.  FEND
     https://github.com/MatthewCranford/ud891
+
+## R2 Day 60: June 8, Friday
+
+**Today's Progress**: R2D60: Started part 4 of the walkthrough, ran some Python scripts, finished a11y course, started course on JS objects, and broke through a wall on the Simon Game. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Wall down!
+
+**Link(s) to work**
+
+1.  Memory Game Walkthrough
+    https://github.com/MatthewCranford/fend-memory-game-walkthrough
+
+2)  Python
+    https://github.com/MatthewCranford/udacity-intro-python-programming
+
+3.  FEND
+    https://github.com/MatthewCranford/ud891/commit/0774c40c91e5fd7213781b45e065cd647476e9d5
+
+4.  Simon Game
+    https://github.com/MatthewCranford/fcc-simon-game/commit/f60d275a5f2236db1a3d7cf856582b31906de34c
