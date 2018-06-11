@@ -709,7 +709,7 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 2.  FEND
     https://github.com/MatthewCranford/ud891
 
-## R2 Day 60: June 8, Friday
+## R2 Day 60: June 9, Friday
 
 **Today's Progress**: R2D60: Started part 4 of the walkthrough, ran some Python scripts, finished a11y course, started course on JS objects, and broke through a wall on the Simon Game. #100DaysOfCode #301DaysOfCode
 
