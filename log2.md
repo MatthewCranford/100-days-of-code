@@ -720,7 +720,7 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 1.  Memory Game Walkthrough
     https://github.com/MatthewCranford/fend-memory-game-walkthrough
 
-2)  Python
+2.  Python
     https://github.com/MatthewCranford/udacity-intro-python-programming
 
 3.  FEND
