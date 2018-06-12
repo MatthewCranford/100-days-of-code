@@ -745,3 +745,17 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 3.  Simon Game
     https://github.com/MatthewCranford/fcc-simon-game/commit/9ace02ac53e6198d437e6d8c0e63e12b5cd4192a
+
+## R2 Day 62: June 11, Monday
+
+**Today's Progress**: R2D62: Worked on the walkthrough, continued object lessons, finished Python course, and some of the big pieces of the Simon game project finally came together. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Stay focused, your close.
+
+**Link(s) to work**
+
+1.  Memory Game Walkthrough
+    https://github.com/MatthewCranford/fend-memory-game-walkthrough/commit/cab01dc16f2be0a776059b461894085165037203
+
+2.  Simon Game
+    https://github.com/MatthewCranford/fcc-simon-game/commit/81b3f4d971dafeec8f8aa9285cfdacb7364f1bdb
