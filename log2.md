@@ -800,6 +800,23 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 **Link(s) to work**
 
 1.  Memory Game Walkthrough
+    https://github.com/MatthewCranford/fend-memory-game-walkthrough/commit/9f8751cd8831b7c7443e9c9ed6a61ca0e9565293
+
+1.  SQL for Data Analyst
+    https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/d13822dde453b2d97086bc9cd593d200c473c88e
+
+1.  Simon Game
+    https://github.com/MatthewCranford/fcc-simon-game/commit/0098a29c7d5a3a66408de3d0375e4855348308bb
+
+## R2 Day 66: June 15, Friday
+
+**Today's Progress**: R2D66: Worked on the walkthrough, binded my first THIS in JS, more practice with SQL joins, and submit final fCC project! #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Didn't get a 3rd scholarship, but did accomplish a goal... A big one.
+
+**Link(s) to work**
+
+1.  Memory Game Walkthrough
     https://github.com/MatthewCranford/fend-memory-game-walkthrough/commit/74668fcaae7e1b85c3a4c3ea98e9efb62287048a
 
 1.  SQL for Data Analyst
