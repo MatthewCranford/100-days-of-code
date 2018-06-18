@@ -10,9 +10,7 @@ My goals for this round are to "code"
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/pixel-art-maker/commit/f12a6b131228651b766c53216836064952e87a82
+1.  https://github.com/MatthewCranford/pixel-art-maker/commit/f12a6b131228651b766c53216836064952e87a82
 
 ## R2 Day 2: April 12, Thursday
 
@@ -22,9 +20,7 @@ https://github.com/MatthewCranford/pixel-art-maker/commit/f12a6b131228651b766c53
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/js-calculator/commit/2e200f6d637b445e41867b1a928eb0b131f5a926
+1.  https://github.com/MatthewCranford/js-calculator/commit/2e200f6d637b445e41867b1a928eb0b131f5a926
 
 ## R2 Day 3: April 13, Friday
 
@@ -34,9 +30,7 @@ https://github.com/MatthewCranford/js-calculator/commit/2e200f6d637b445e41867b1a
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/js-calculator/commit/759cda49ca5a5185be63322a0781c2f7d40ab63a
+1.  https://github.com/MatthewCranford/js-calculator/commit/759cda49ca5a5185be63322a0781c2f7d40ab63a
 
 ## R2 Day 4: April 14, Saturday
 
@@ -46,9 +40,7 @@ https://github.com/MatthewCranford/js-calculator/commit/759cda49ca5a5185be63322a
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d284c2d93b6b125c3f3
+1.  https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d284c2d93b6b125c3f3
 
 ## R2 Day 5: April 15, Sunday
 
@@ -58,9 +50,7 @@ https://github.com/MatthewCranford/js-calculator/commit/5fb10a8537919fe0f3c23d28
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/js-calculator/commit/c589bdc4c113289c989834b0dc839a3e903391a8
+1.  https://github.com/MatthewCranford/js-calculator/commit/c589bdc4c113289c989834b0dc839a3e903391a8
 
 ## R2 Day 6: April 16, Monday
 
@@ -70,9 +60,7 @@ https://github.com/MatthewCranford/js-calculator/commit/c589bdc4c113289c989834b0
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/react-bootcamp/commit/1b767c62ca6fb5c171216affabf74fc59cf49b0d
+1.  https://github.com/MatthewCranford/react-bootcamp/commit/1b767c62ca6fb5c171216affabf74fc59cf49b0d
 
 ## R2 Day 7: April 17, Tuesday
 
@@ -82,9 +70,7 @@ https://github.com/MatthewCranford/react-bootcamp/commit/1b767c62ca6fb5c171216af
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/js-calculator/commit/9f5051cbad665cbb9b3560cf98e120e2302b3cbb
+1.  https://github.com/MatthewCranford/js-calculator/commit/9f5051cbad665cbb9b3560cf98e120e2302b3cbb
 
 ## R2 Day 8: April 18, Wednesday
 
@@ -94,9 +80,7 @@ https://github.com/MatthewCranford/js-calculator/commit/9f5051cbad665cbb9b3560cf
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/js-calculator/commit/2d57bc91b8ab1b8f5742c384a3bd7d6abde93bcd
+1.  https://github.com/MatthewCranford/js-calculator/commit/2d57bc91b8ab1b8f5742c384a3bd7d6abde93bcd
 
 ## R2 Day 9: April 19, Thursday
 
@@ -106,9 +90,7 @@ https://github.com/MatthewCranford/js-calculator/commit/2d57bc91b8ab1b8f5742c384
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/js-calculator/commit/3f7e0218b8ac0743bc9b2ae73f874422b0f14225
+1.  https://github.com/MatthewCranford/js-calculator/commit/3f7e0218b8ac0743bc9b2ae73f874422b0f14225
 
 ## R2 Day 10: April 20, Friday
 
@@ -118,9 +100,7 @@ https://github.com/MatthewCranford/js-calculator/commit/3f7e0218b8ac0743bc9b2ae7
 
 **Link(s) to work**
 
-1.
-
-https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e835e0ff83330f004f##
+1.  https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e835e0ff83330f004f##
 
 ## R2 Day 11: April 21, Saturday
 
