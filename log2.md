@@ -835,3 +835,17 @@ https://github.com/MatthewCranford/js-calculator/commit/67d8e8646fac3192926938e8
 
 1.  Memory Game Walkthrough
     https://github.com/MatthewCranford/fend-memory-game-walkthrough/commit/4a809a3852b09b020ac7c851ef5e44ae824daf09
+
+## R2 Day 68: June 17, Sunday
+
+**Today's Progress**: R2D68: Continued walkthrough, studied more with objects, and practiced more table joins with SQL. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Objects lots to learn and absorb.
+
+**Link(s) to work**
+
+1.  Memory Game Walkthrough
+    https://github.com/MatthewCranford/fend-memory-game-walkthrough/commit/8a1813b5292c26f9e96bc5cf88c7befd821bcfd2
+
+2.  SQL for Data Analyst
+    https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/c183c93b2eadef277addd66a97238a17f095cde0
