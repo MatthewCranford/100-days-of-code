@@ -829,3 +829,17 @@ My goals for this round are to "code"
 
 2.  SQL for Data Analyst
     https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/c183c93b2eadef277addd66a97238a17f095cde0
+
+## R2 Day 69: June 18, Monday
+
+**Today's Progress**: R2D68: Finished Memory Game walkthrough, brushed up on my ES6 skills, and started learning SQL aggregations. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Losing momentum, need to tighten up schedule.
+
+**Link(s) to work**
+
+1.  Memory Game Walkthrough
+    https://github.com/MatthewCranford/fend-memory-game-walkthrough/commit/5b165495b84df8eb3d16376e7df6ec4fecea3d47
+
+2.  SQL for Data Analyst
+    https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/b4dfe238ccd0888cbf32b331e288786630c15b09
