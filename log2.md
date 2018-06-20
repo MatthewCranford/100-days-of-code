@@ -832,7 +832,7 @@ My goals for this round are to "code"
 
 ## R2 Day 69: June 18, Monday
 
-**Today's Progress**: R2D68: Finished Memory Game walkthrough, brushed up on my ES6 skills, and started learning SQL aggregations. #100DaysOfCode #301DaysOfCode
+**Today's Progress**: R2D69: Finished Memory Game walkthrough, brushed up on my ES6 skills, and started learning SQL aggregations. #100DaysOfCode #301DaysOfCode
 
 **Thoughts**: Losing momentum, need to tighten up schedule.
 
@@ -843,3 +843,14 @@ My goals for this round are to "code"
 
 2.  SQL for Data Analyst
     https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/b4dfe238ccd0888cbf32b331e288786630c15b09
+
+## R2 Day 70: June 19, Tuesday
+
+**Today's Progress**: R2D70: Some of the more difficult JS concepts are starting to click and many SQL tables were joined today! #100DaysOfCode #301DaysOfCode
+
+**Thoughts**:
+
+**Link(s) to work**
+
+1.  SQL for Data Analyst
+    https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/1ee341f872806d82112411e2bebd509a8b90408b
