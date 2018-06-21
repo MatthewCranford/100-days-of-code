@@ -848,9 +848,20 @@ My goals for this round are to "code"
 
 **Today's Progress**: R2D70: Some of the more difficult JS concepts are starting to click and many SQL tables were joined today! #100DaysOfCode #301DaysOfCode
 
-**Thoughts**:
+**Thoughts**: Not as active as I'd like
 
 **Link(s) to work**
 
 1.  SQL for Data Analyst
     https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/1ee341f872806d82112411e2bebd509a8b90408b
+
+## R2 Day 71: June 20, Wednesday
+
+**Today's Progress**: R2D71: Studied some more JS and SQL, getting anxious to start next project. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Still feeling slowed down after change, need a project.
+
+**Link(s) to work**
+
+1.  SQL for Data Analyst
+    https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/7bbfe00a89b88bd92fdef09ba568c38fd4b559b4
