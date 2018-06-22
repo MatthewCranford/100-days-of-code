@@ -865,3 +865,14 @@ My goals for this round are to "code"
 
 1.  SQL for Data Analyst
     https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/7bbfe00a89b88bd92fdef09ba568c38fd4b559b4
+
+## R2 Day 72: June 21, Thursday
+
+**Today's Progress**: R2D72: Took a look at some old code...wow and spent the rest of the day trying to grasp the differences between building classes with functional, prototypal, and pseudoclassical patterns with JavaScript. Made more sense than it did yesterday. #progress #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Good progress today, really focused in on JavaScript, I needed that.
+
+**Link(s) to work**
+
+1.  fCC Tribute Page Revisit
+  https://github.com/MatthewCranford/fcc-tribute-page
