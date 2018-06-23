@@ -876,3 +876,14 @@ My goals for this round are to "code"
 
 1.  fCC Tribute Page Revisit
   https://github.com/MatthewCranford/fcc-tribute-page
+
+## R2 Day 73: June 22, Thursday
+
+**Today's Progress**: R2D73: Worked more with classes and touched on a bunch of new ES6 features. Start 3rd FEND Nano project tomorrow. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Back in the game.
+
+**Link(s) to work**
+
+1.  SQL
+https://github.com/MatthewCranford/udacity-sql-data-analyst
