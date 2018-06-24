@@ -875,9 +875,9 @@ My goals for this round are to "code"
 **Link(s) to work**
 
 1.  fCC Tribute Page Revisit
-  https://github.com/MatthewCranford/fcc-tribute-page
+https://github.com/MatthewCranford/fcc-tribute-page/commit/40cfe378a9ac7d28831bd4aca19ce67c18a24905
 
-## R2 Day 73: June 22, Thursday
+## R2 Day 73: June 22, Friday
 
 **Today's Progress**: R2D73: Worked more with classes and touched on a bunch of new ES6 features. Start 3rd FEND Nano project tomorrow. #100DaysOfCode #301DaysOfCode
 
@@ -886,4 +886,19 @@ My goals for this round are to "code"
 **Link(s) to work**
 
 1.  SQL
-https://github.com/MatthewCranford/udacity-sql-data-analyst
+https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/04bc98dd85d45eb0ce8b1a12b15a48c4786492e7
+
+## R2 Day 74: June 23, Saturday
+
+**Today's Progress**: R2D74: Started project 3 on building a classic arcade game, learned how to querying my queries with SQL, and refactored some code. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Project 3 is tough, but possible.
+
+**Link(s) to work**
+
+1.  FEND Memory Game Walkthrough
+https://github.com/MatthewCranford/fend-project-memory-game-walkthrough/commit/70ceff9c1cbeafad0227d23d5f39228c20c61a53
+
+2.  SQL
+https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/04bc98dd85d45eb0ce8b1a12b15a48c4786492e7
+
