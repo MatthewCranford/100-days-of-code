@@ -902,3 +902,17 @@ https://github.com/MatthewCranford/fend-project-memory-game-walkthrough/commit/7
 2.  SQL
 https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/04bc98dd85d45eb0ce8b1a12b15a48c4786492e7
 
+## R2 Day 75: June 24, Sunday
+
+**Today's Progress**: R2D75: Wrote tomorrow's blog, got my first enemy drawn to screen for Arcade game, and tackled some more subqueries. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Project 3 progress!
+
+**Link(s) to work**
+
+1.  FEND Arcade Game
+https://github.com/MatthewCranford/fend-arcade-game/commit/b5b45d74d42a5a1c2f9ae246ddad3ae5327807cc
+
+2.  SQL
+https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/1e2c383645a191f081922b10b1351eb6d620eba2
+
