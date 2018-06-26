@@ -916,3 +916,17 @@ https://github.com/MatthewCranford/fend-arcade-game/commit/b5b45d74d42a5a1c2f9ae
 2.  SQL
 https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/1e2c383645a191f081922b10b1351eb6d620eba2
 
+## R2 Day 76: June 25, Monday
+
+**Today's Progress**: R2D76: Got a lot of the Arcade Game proj finished today and chipped away at some SQL queries. #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Project 3 done tomorrow?!
+
+**Link(s) to work**
+
+1.  FEND Arcade Game
+https://github.com/MatthewCranford/fend-arcade-game/commit/e6ed4608108ad8986c086445e2cf47214892a96c
+
+2.  SQL
+https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/5040f0e10e1aa97e59d4c2e62aba2367aa0bef00
+
