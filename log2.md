@@ -958,3 +958,14 @@ https://github.com/MatthewCranford/fend-arcade-game/commit/d28145af448cea5f9062a
 2.  SQL
 https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/676294410beeae1c8e43294533a957ee9071e50e
 
+## R2 Day 79: June 28, Thursday
+
+**Today's Progress**: R2D79: Worked on walkthrough, learned a bit about Gulp, and continue to query some databases  #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Busy next couple days ahead...
+
+**Link(s) to work**
+
+2.  SQL
+https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/f4a040387aa085e019b5defa63a33a64646b1441
+
