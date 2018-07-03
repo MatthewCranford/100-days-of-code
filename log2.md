@@ -991,11 +991,22 @@ https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/94792185e6a2e
 1.  Arcade Game Walkthrough
 https://github.com/MatthewCranford/fend-arcade-game-walkthrough
 
-## R2 Day 82: June 30, Saturday
+## R2 Day 82: July 1, Sunday
 
 **Today's Progress**: R2D82: Settled in, finished tomorrow blog, continued working on walkthrough #100DaysOfCode #301DaysOfCode
 
 **Thoughts**: Need to write more code
+
+**Link(s) to work**
+
+1.  Arcade Game Walkthrough
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough
+
+## R2 Day 83: July 2, Monday
+
+**Today's Progress**: R2D83: Had a great mentorship session where I learned a lot and finished part of the project 3 walkthrough #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Mentorship session was invaluable, gained some levels! 
 
 **Link(s) to work**
 
