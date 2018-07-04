@@ -1011,5 +1011,17 @@ https://github.com/MatthewCranford/fend-arcade-game-walkthrough
 **Link(s) to work**
 
 1.  Arcade Game Walkthrough
-https://github.com/MatthewCranford/fend-arcade-game-walkthrough
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/5ace30ff321a05b7f8323c6dadfb604ed41fa6bb
 
+## R2 Day 84: July 3, Tuesday
+
+**Today's Progress**: R2D84: Refactored my Arcade Game project taking what I learned yesterday, started new part of walkthrough, and practiced some more SQL #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Much coding was done, put into practice what I learned, another step forward
+
+**Link(s) to work**
+
+1.  Arcade Game
+https://github.com/MatthewCranford/fend-arcade-game/commit/ad9713c448415c52a233bcd6f79e8ef50f8ec748
+
+2. SQL https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/4d99421f1ac5e78e9769087aea4cd4b141079881
