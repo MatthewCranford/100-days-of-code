@@ -1054,3 +1054,16 @@ https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/5ace30ff3
 https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/21362909caf3c994a6ad266dad3439fa63ceafb4
 
 2. SQL https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/6c6fa78e0c1cc82e65ebbd71da040c707486dda4
+
+## R2 Day 87: July 6, Friday
+
+**Today's Progress**: R2D87: Worked on Arcade Game walkthrough, started learning about Jasmine testing, and CAST some dates in SQL #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Productive and exciting day
+
+**Link(s) to work**
+
+1.  Arcade Game WT
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough
+
+2. SQL https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/d36c40a7e0c5b6554e718ae5cbf81bc0576668e9
