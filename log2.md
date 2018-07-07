@@ -969,7 +969,18 @@ https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/676294410beea
 2.  SQL
 https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/f4a040387aa085e019b5defa63a33a64646b1441
 
-## R2 Day 80: June 29, Friday
+## R2 Day 80: June 30, Saturday
+
+**Today's Progress**: R2D80: Read some books, setup new repo, oh and moved to Utah #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: zzz
+
+**Link(s) to work**
+
+1.  Arcade Game Walkthrough
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough
+
+## R2 Day 81: June 29, Friday
 
 **Today's Progress**: R2D80: Made progress on walkthrough and finished a few more SQL quizzes #100DaysOfCode #301DaysOfCode
 
@@ -1054,3 +1065,16 @@ https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/5ace30ff3
 https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/21362909caf3c994a6ad266dad3439fa63ceafb4
 
 2. SQL https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/6c6fa78e0c1cc82e65ebbd71da040c707486dda4
+
+## R2 Day 87: July 6, Friday
+
+**Today's Progress**: R2D87: Worked on Arcade Game walkthrough, started learning about Jasmine testing, and CAST some dates in SQL #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Productive and exciting day
+
+**Link(s) to work**
+
+1.  Arcade Game WT
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/b1c4740868fbafa85e0dfe58b6e3b585d358cb3a
+
+2. SQL https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/d36c40a7e0c5b6554e718ae5cbf81bc0576668e9
