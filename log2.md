@@ -1078,3 +1078,15 @@ https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/21362909c
 https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/b1c4740868fbafa85e0dfe58b6e3b585d358cb3a
 
 2. SQL https://github.com/MatthewCranford/udacity-sql-data-analyst/commit/d36c40a7e0c5b6554e718ae5cbf81bc0576668e9
+
+## R2 Day 88: July 7, Saturday
+
+**Today's Progress**: R2D88: Dropped part 3 of Arcade Game Walkthrough and completed the final SQL lessons which wraps up this intro Data Science course! #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Slow progress
+
+**Link(s) to work**
+
+1.  Arcade Game WT
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/dc98d36fddb7376e9522717313e5be90ce42d96a
+
