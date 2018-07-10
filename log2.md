@@ -1101,4 +1101,15 @@ https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/dc98d36fd
 1.  Arcade Game WT
 https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/b390f4d3483e7c8d2867321f679cf9f05e894901
 
+## R2 Day 90: July 9, Monday
+
+**Today's Progress**: R2D90: Worked on the Arcade Game walkthrough #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Work harder
+
+**Link(s) to work**
+
+1.  Arcade Game WT
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/f1c9367c0463aff55c41efdad637ed4056873db1
+
 
