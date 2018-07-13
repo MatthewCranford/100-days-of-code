@@ -1143,4 +1143,18 @@ https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/ce54720f0
 2.  Feed Reader
 https://github.com/MatthewCranford/fend-feed-reader/commit/96c53143e6469ebbe55a59f25f789425c4245efa
 
+## R2 Day 93: July 12, Thursday
+
+**Today's Progress**: R2D93: Solved another test for the Feed Reader project
+
+**Thoughts**: Feed Reader progress!
+
+**Link(s) to work**
+
+1.  Arcade Game WT
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/2a40f00b5b60bd71ca0af02e1a5606e3ecf3acd9
+
+2.  Feed Reader
+https://github.com/MatthewCranford/fend-feed-reader/commit/ea6354e9bbb1de269d1140a322f51d17fc977500
+
 
