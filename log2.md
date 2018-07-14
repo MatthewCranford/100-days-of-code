@@ -1171,4 +1171,21 @@ https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/ff1a30bfb
 2.  Feed Reader
 https://github.com/MatthewCranford/fend-feed-reader/commit/857c82039f4b37c10e8eacf479d1311b612ff4d3
 
+## R2 Day 95: July 14, Saturday
+
+**Today's Progress**: R2D95: Worked on part 6 of walkthrough, submitted project 4, and started the legendary Cat Clicker project #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Project 4 submitted!
+
+**Link(s) to work**
+
+1.  Arcade Game WT
+https://github.com/MatthewCranford/fend-arcade-game-walkthrough/commit/3f7de00dcb5b60a23f288a15c989280ab2502e0d
+
+2.  Feed Reader
+https://github.com/MatthewCranford/fend-feed-reader/commit/775eac86a8823ef813c64a39958ab265a314be1f
+
+3.  Cat Clicker
+https://github.com/MatthewCranford/cat-clicker/commit/bf69e42c98c14763ea267e9fd67c01cfadfa22aa
+
 
