@@ -1247,4 +1247,15 @@ https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/e588f48b1
 2.  Cat Clicker
 https://github.com/MatthewCranford/cat-clicker/commit/0efea7cf0d756dc085b7ca25d21d95423ac9c2ac
 
+## R2 Day 100: July 19, Thursday
+
+**Today's Progress**: R2D100: 200 days of this coding thing, it's gone by fast. Finished part 1 of Feed Reader Project walkthrough and continued the Cat Clicker puzzle #100DaysOfCode #301DaysOfCode
+
+**Thoughts**: Cat clicker getting trickyER
+
+**Link(s) to work**
+
+1.  Cat Clicker
+https://github.com/MatthewCranford/cat-clicker/commit/c17fbc33ea118181e85fce7cd1590f290113aef1
+
 
