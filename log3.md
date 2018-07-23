@@ -37,3 +37,16 @@ https://github.com/MatthewCranford/cat-clicker/commit/c30a60cdfa64b906540c614979
 
 2. Cat Clicker
 https://github.com/MatthewCranford/cat-clicker/commit/cbcb31ce5bb1dd46491fb42db3340b8d9b7fedc8
+
+## R3 Day 4: July 23, Monday
+
+**Today's Progress**: R3D4: Worked on Feed Reader walkthrough, upgraded Cat Clicker, and more statistic practice #100DaysOfCode #301DaysOfCode. 
+
+**Thoughts**: Day of rest.
+
+**Link(s) to work**
+
+1. Feed Reader WT  https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/c09d3ec745566190e647ede09e90c3391e0db678
+
+2. Cat Clicker
+https://github.com/MatthewCranford/cat-clicker/commit/cbcb31ce5bb1dd46491fb42db3340b8d9b7fedc8
