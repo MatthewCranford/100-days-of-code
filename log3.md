@@ -10,7 +10,8 @@ My goal for this round is to complete my FEND Scholarship
 
 **Link(s) to work**
 
-1. Feed Reader WT  https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/83f3dbd0e3b0cfa9d69ffacfe8b0686cf7358784
+1. Feed Reader WT  
+https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/83f3dbd0e3b0cfa9d69ffacfe8b0686cf7358784
 
 2. Cat Clicker
 https://github.com/MatthewCranford/cat-clicker/commit/c30a60cdfa64b906540c61497930498bc7a70ef3
@@ -23,7 +24,8 @@ https://github.com/MatthewCranford/cat-clicker/commit/c30a60cdfa64b906540c614979
 
 **Link(s) to work**
 
-1. Feed Reader WT  https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/78235b655b6c2942356989719b95de727585b81a
+1. Feed Reader WT  
+https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/78235b655b6c2942356989719b95de727585b81a
 
 ## R3 Day 3: July 22, Sunday
 
@@ -33,7 +35,8 @@ https://github.com/MatthewCranford/cat-clicker/commit/c30a60cdfa64b906540c614979
 
 **Link(s) to work**
 
-1. Feed Reader WT  https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/c09d3ec745566190e647ede09e90c3391e0db678
+1. Feed Reader WT  
+https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/c09d3ec745566190e647ede09e90c3391e0db678
 
 2. Cat Clicker
 https://github.com/MatthewCranford/cat-clicker/commit/cbcb31ce5bb1dd46491fb42db3340b8d9b7fedc8
@@ -42,11 +45,26 @@ https://github.com/MatthewCranford/cat-clicker/commit/cbcb31ce5bb1dd46491fb42db3
 
 **Today's Progress**: R3D4: Worked on Feed Reader walkthrough, upgraded Cat Clicker, and more statistic practice #100DaysOfCode #301DaysOfCode. 
 
-**Thoughts**: Day of rest.
+**Thoughts**: Trying to keep focused.
 
 **Link(s) to work**
 
-1. Feed Reader WT  https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/c09d3ec745566190e647ede09e90c3391e0db678
+1. Feed Reader WT  
+https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/c09d3ec745566190e647ede09e90c3391e0db678
 
 2. Cat Clicker
 https://github.com/MatthewCranford/cat-clicker/commit/cbcb31ce5bb1dd46491fb42db3340b8d9b7fedc8
+
+## R3 Day 5: July 24, Tuesday
+
+**Today's Progress**: R3D4: Worked on final part of Feed Reader walkthrough, finished Cat Clicker Premium, and worked on my z index #100DaysOfCode #301DaysOfCode. 
+
+**Thoughts**: Progress.
+
+**Link(s) to work**
+
+1. Feed Reader WT  
+https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/0d3c54124d075bda8d996336d217a70792ddd1f2
+
+2. Cat Clicker
+https://github.com/MatthewCranford/cat-clicker/commit/93a245d8795341568cc82edeb7ed7caa717564fd
