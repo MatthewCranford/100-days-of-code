@@ -18,7 +18,7 @@ https://github.com/MatthewCranford/cat-clicker/commit/c30a60cdfa64b906540c614979
 
 ## R3 Day 2: July 21, Saturday
 
-**Today's Progress**: R3D2: Worked on Feed Reader walkthrough, studied more on MVC, and brushed up on statistics #100DaysOfCode #301DaysOfCode. 
+**Today's Progress**: R3D2: Worked on Feed Reader walkthrough, studied more on MVC, and brushed up on statistics #100DaysOfCode #301DaysOfCode
 
 **Thoughts**: Stay hungry.
 
@@ -29,7 +29,7 @@ https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/78235b655
 
 ## R3 Day 3: July 22, Sunday
 
-**Today's Progress**: R3D3: Worked on Feed Reader walkthrough, began refactoring the Cat Clicker, and practiced more statistics #100DaysOfCode #301DaysOfCode. 
+**Today's Progress**: R3D3: Worked on Feed Reader walkthrough, began refactoring the Cat Clicker, and practiced more statistics #100DaysOfCode #301DaysOfCode
 
 **Thoughts**: Day of rest.
 
@@ -43,7 +43,7 @@ https://github.com/MatthewCranford/cat-clicker/commit/cbcb31ce5bb1dd46491fb42db3
 
 ## R3 Day 4: July 23, Monday
 
-**Today's Progress**: R3D4: Worked on Feed Reader walkthrough, upgraded Cat Clicker, and more statistic practice #100DaysOfCode #301DaysOfCode. 
+**Today's Progress**: R3D4: Worked on Feed Reader walkthrough, upgraded Cat Clicker, and more statistic practice #100DaysOfCode #301DaysOfCode
 
 **Thoughts**: Trying to keep focused.
 
@@ -57,7 +57,7 @@ https://github.com/MatthewCranford/cat-clicker/commit/cbcb31ce5bb1dd46491fb42db3
 
 ## R3 Day 5: July 24, Tuesday
 
-**Today's Progress**: R3D5: Worked on final part of Feed Reader walkthrough, finished Cat Clicker Premium, and worked on my z index #100DaysOfCode #301DaysOfCode. 
+**Today's Progress**: R3D5: Worked on final part of Feed Reader walkthrough, finished Cat Clicker Premium, and worked on my z index #100DaysOfCode #301DaysOfCode 
 
 **Thoughts**: Progress.
 
@@ -71,7 +71,7 @@ https://github.com/MatthewCranford/cat-clicker/commit/93a245d8795341568cc82edeb7
 
 ## R3 Day 6: July 25, Wednesday
 
-**Today's Progress**: R3D6: Finished Feed Reader walkthrough, improved Cat Clicker with some refactors, and standardized some data #100DaysOfCode #301DaysOfCode. 
+**Today's Progress**: R3D6: Finished Feed Reader walkthrough, improved Cat Clicker with some refactors, and standardized some data #100DaysOfCode #301DaysOfCode 
 
 **Thoughts**: Learned a lot from refactoring Cat Clicker.
 
