@@ -68,3 +68,14 @@ https://github.com/MatthewCranford/fend-feed-reader-walkthrough/commit/0d3c54124
 
 2. Cat Clicker
 https://github.com/MatthewCranford/cat-clicker/commit/93a245d8795341568cc82edeb7ed7caa717564fd
+
+## R3 Day 6: July 25, Wednesday
+
+**Today's Progress**: R3D6: Finished Feed Reader walkthrough, improved Cat Clicker with some refactors, and standardized some data #100DaysOfCode #301DaysOfCode. 
+
+**Thoughts**: Learned a lot from refactoring Cat Clicker.
+
+**Link(s) to work**
+
+1. Cat Clicker
+https://github.com/MatthewCranford/cat-clicker/commit/93a245d8795341568cc82edeb7ed7caa717564fd
