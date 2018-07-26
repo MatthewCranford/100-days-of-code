@@ -79,3 +79,17 @@ https://github.com/MatthewCranford/cat-clicker/commit/93a245d8795341568cc82edeb7
 
 1. Cat Clicker
 https://github.com/MatthewCranford/cat-clicker/commit/93a245d8795341568cc82edeb7ed7caa717564fd
+
+## R3 Day 7: July 26, Thursday
+
+**Today's Progress**: R3D7: Upgraded to Cat Clicker Premium Pro, refactored some spaghetti code, and brushed up on normalizing data #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Walkthroughs on hold until project 5, lots of lessons to complete.
+
+**Link(s) to work**
+
+1. Cat Clicker
+https://github.com/MatthewCranford/cat-clicker/commit/0f3bf333ae1a477d12c8cf6c48966b08e04871da
+
+1. School Attendance
+https://github.com/MatthewCranford/school-attendance/commit/6917468133b6dd7a9fe593804a46d3d62aec0706
