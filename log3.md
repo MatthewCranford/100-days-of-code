@@ -93,3 +93,14 @@ https://github.com/MatthewCranford/cat-clicker/commit/0f3bf333ae1a477d12c8cf6c48
 
 1. School Attendance
 https://github.com/MatthewCranford/school-attendance/commit/6917468133b6dd7a9fe593804a46d3d62aec0706
+
+## R3 Day 8: July 27, Friday
+
+**Today's Progress**: R3D8: Refactored attendance app and practiced statistic stuff #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Busy day, not much pomos.
+
+**Link(s) to work**
+
+1. School Attendance
+https://github.com/MatthewCranford/school-attendance/commit/d6e8038379ca11b120c8b292a50f63dab5d7dd37
