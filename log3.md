@@ -104,3 +104,14 @@ https://github.com/MatthewCranford/school-attendance/commit/6917468133b6dd7a9fe5
 
 1. School Attendance
 https://github.com/MatthewCranford/school-attendance/commit/d6e8038379ca11b120c8b292a50f63dab5d7dd37
+
+## R3 Day 9: July 28, Saturday
+
+**Today's Progress**: R3D9: More refactors and statistic practice #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Refactoring this thing was tough.
+
+**Link(s) to work**
+
+1. School Attendance
+https://github.com/MatthewCranford/school-attendance/commit/39db9e67a9b6fc0f04786809e32b9a0953119b6c
