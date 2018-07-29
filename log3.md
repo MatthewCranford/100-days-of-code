@@ -115,3 +115,17 @@ https://github.com/MatthewCranford/school-attendance/commit/d6e8038379ca11b120c8
 
 1. School Attendance
 https://github.com/MatthewCranford/school-attendance/commit/39db9e67a9b6fc0f04786809e32b9a0953119b6c
+
+## R3 Day 10: July 29, Sunday
+
+**Today's Progress**: R3D10: Burned some spaghetti to the ground and rebuilt #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Many pomos today and rest
+
+**Link(s) to work**
+
+1. School Attendance
+https://github.com/MatthewCranford/school-attendance/commit/bf4947fa9590a465a1a540d23e61884a3b1491a8
+
+2. Resume Builder
+https://github.com/MatthewCranford/resume-builder/commit/40c5d7ac5583e32a770671d4cfb8d6847ca3f035
