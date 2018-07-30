@@ -129,3 +129,17 @@ https://github.com/MatthewCranford/school-attendance/commit/bf4947fa9590a465a1a5
 
 2. Resume Builder
 https://github.com/MatthewCranford/resume-builder/commit/40c5d7ac5583e32a770671d4cfb8d6847ca3f035
+
+## R3 Day 11: July 30, Monday
+
+**Today's Progress**: R3D11: First time working with promises #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Focused on FEND
+
+**Link(s) to work**
+
+1. Resume Builder
+https://github.com/MatthewCranford/resume-builder/commit/f1f78517fbf13989d7e4dc4fdee0437483b9afee
+
+2. Exoplanet Explorer
+https://github.com/MatthewCranford/exoplanet-explorer/commit/edf40207a827a62177fb30933ab3421b174c6bd1
