@@ -143,3 +143,14 @@ https://github.com/MatthewCranford/resume-builder/commit/f1f78517fbf13989d7e4dc4
 
 2. Exoplanet Explorer
 https://github.com/MatthewCranford/exoplanet-explorer/commit/edf40207a827a62177fb30933ab3421b174c6bd1
+
+## R3 Day 12: July 31, Tuesday
+
+**Today's Progress**: R3D12: Worked with some AJAX using XHR and jQuery, fetch tomorrow #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Project focused
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/fa6f479be27ac894bb2210c350429ac26d58b98a
