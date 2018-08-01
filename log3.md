@@ -154,3 +154,14 @@ https://github.com/MatthewCranford/exoplanet-explorer/commit/edf40207a827a62177f
 
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/fa6f479be27ac894bb2210c350429ac26d58b98a
+
+## R3 Day 13: August 1, Wednesday
+
+**Today's Progress**: R3D13: Used the power of fetch, started learning about different frameworks, and added the map api to the Restaurant Review project #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: New 3/1 ratio of study projects works nice
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/065ceace98293102bcefbe6290de2dea51697944
