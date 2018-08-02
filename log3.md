@@ -165,3 +165,14 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/fa6f479be27ac89
 
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/065ceace98293102bcefbe6290de2dea51697944
+
+## R3 Day 14: August 2, Thursday
+
+**Today's Progress**: R3D14: Worked with some Backbone, Angular, and got the restaurants to load on the project #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Trying to stay committed to this
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/9ea8ba150e6bc170d2c4ccc6188832ce5789e660
