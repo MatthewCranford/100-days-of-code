@@ -176,3 +176,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/065ceace9829310
 
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/9ea8ba150e6bc170d2c4ccc6188832ce5789e660
+
+## R3 Day 15: August 3, Friday
+
+**Today's Progress**: R3D15: Learned more about Angular, started working with some Ember, and worked on my Restaurant Review app project. #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Sooo many frameworks
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/23dcb8beac19e41864e27b5ef1c5356ac73a5cc6
+
