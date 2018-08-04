@@ -188,3 +188,14 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/9ea8ba150e6bc17
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/23dcb8beac19e41864e27b5ef1c5356ac73a5cc6
 
+## R3 Day 16: August 4, Saturday
+
+**Today's Progress**: R3D16: Finished Ember lesson, started learning about offline first, and continued work on project #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Getting close to finishing section
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/23dcb8beac19e41864e27b5ef1c5356ac73a5cc6
+
