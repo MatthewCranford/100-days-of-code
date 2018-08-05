@@ -199,4 +199,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/23dcb8beac19e41
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/23dcb8beac19e41864e27b5ef1c5356ac73a5cc6
 
+## R3 Day 17: August 5, Sunday
+
+**Today's Progress**: R3D17: Learned more about service workers and fixed project's responsive design #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Getting close to finishing section
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/23dcb8beac19e41864e27b5ef1c5356ac73a5cc6
+
                  
