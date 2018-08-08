@@ -232,4 +232,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/02d44d5c13d5526
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/202ba3fef94ef69e8c970108eaa7c377256bd850
 
+## R3 Day 20: August 8, Wednesday
+
+**Today's Progress**: R3D20: Got the Service Worker to cache a few things #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: What else do I need besides urls?
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/35f4dfd57c2825a5b5645c5807fd7b3e038ce508
+
                  
