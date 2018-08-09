@@ -243,4 +243,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/202ba3fef94ef69
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/35f4dfd57c2825a5b5645c5807fd7b3e038ce508
 
+## R3 Day 21: August 9, Thursday
+
+**Today's Progress**: R3D21: Worked on problems with my project's service worker fetching #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Weird errors on the fetch...
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/946ccc7cc40370e364a0a9d1ea43d5d346f33b4a
+
                  
