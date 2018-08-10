@@ -254,4 +254,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/35f4dfd57c2825a
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/946ccc7cc40370e364a0a9d1ea43d5d346f33b4a
 
+## R3 Day 22: August 10, Friday
+
+**Today's Progress**: R3D22: Continued fixing  project service worker #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Service workers are hard
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/bc682fbaceb2f4085d628957c75e219d199803ca
+
                  
