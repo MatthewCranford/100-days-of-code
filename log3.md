@@ -276,4 +276,16 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/bc682fbaceb2f40
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/48f7f9319515183f6f738b373e8b7118faaac0ef
 
+## R3 Day 24: August 12, Sunday
+
+**Today's Progress**: R3D24: Untangled a bit of the project problems and preparing to not be distracted too badly with new WoW expansion
+ tomorrow #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Expansion tomorrow
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/61896e7ad010511cbc7ca9679914ee96c9e180f6
+
                  
