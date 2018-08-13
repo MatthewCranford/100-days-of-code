@@ -288,4 +288,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/48f7f9319515183
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/61896e7ad010511cbc7ca9679914ee96c9e180f6
 
+## R3 Day 25: August 13, Monday
+
+**Today's Progress**: R3D25: Made big progress on my project today, now time for some BFA #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Expansion!
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/8d05a4b29e651a5ab9e0dbe206a1de9080ed4c5a
+
                  
