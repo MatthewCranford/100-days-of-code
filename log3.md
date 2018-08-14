@@ -299,4 +299,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/61896e7ad010511
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/8d05a4b29e651a5ab9e0dbe206a1de9080ed4c5a
 
+## R3 Day 26: August 14, Tuesday
+
+**Today's Progress**: R3D26: Project close to submission time #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Submit tomorrow
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/6ccbb1924e761ff79a89fe633ce6d84ec622ba89
+
                  
