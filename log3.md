@@ -310,4 +310,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/8d05a4b29e651a5
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/6ccbb1924e761ff79a89fe633ce6d84ec622ba89
 
+## R3 Day 27: August 15, Wednesday
+
+**Today's Progress**: R3D27: Submitted 5th project for Front End Nanodegree #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Submit!
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/4e15521d2ca0e94b50b766c29d88dca2904fcc2d
+
                  
