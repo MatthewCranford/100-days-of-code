@@ -332,4 +332,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/4e15521d2ca0e94
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/74e9afb6e09120ef671c7a787e01880d0abbdcdb
 
+## R3 Day 29: August 17, Friday
+
+**Today's Progress**: R3D29: Resubmitted my project (ARIA skills need some work) and got some map and filter practice #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Got some good practice with map and filter
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1
+https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/74e9afb6e09120ef671c7a787e01880d0abbdcdb
+
                  
