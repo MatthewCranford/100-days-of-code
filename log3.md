@@ -343,4 +343,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/74e9afb6e09120e
 1. MWS Restaurant Stage 1
 https://github.com/MatthewCranford/mws-restaurant-stage-1/commit/7b5134cce2b7922853b592e77e375030baec7bb4
 
+## R3 Day 30: August 18, Saturday
+
+**Today's Progress**: R3D30: Got a passing review for proj 5 and worked on more React #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: React going well so far
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/fa6f479be27ac894bb2210c350429ac26d58b98a
+
                  
