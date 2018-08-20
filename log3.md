@@ -365,4 +365,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/fa6
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/ac51d9fbd473454fa73c0d5a242c5291b9493b92
 
+## R3 Day 32: August 20, Monday
+
+**Today's Progress**: R3D32: Props! Learned how to pass some data with React components #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: React is pretty cool
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/846211b696652ea9baac4910b2ac28428bb6c1b5
+
                  
