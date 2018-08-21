@@ -376,4 +376,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/ac5
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/846211b696652ea9baac4910b2ac28428bb6c1b5
 
+## R3 Day 33: August 21, Tuesday
+
+**Today's Progress**: R3D33: Finished part 1 of proj 5 walkthrough and learned about function components #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Learning that REACT
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/8ee4a1c868f2edb99879c70325749bb17c783853
+
                  
