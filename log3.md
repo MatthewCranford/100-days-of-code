@@ -387,4 +387,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/846
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/8ee4a1c868f2edb99879c70325749bb17c783853
 
+## R3 Day 34: August 22, Wednesday
+
+**Today's Progress**: R3D34: Walkthrough slowly coming together, part 2 soonish #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Focused on walkthrough
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/5a26bcc6fb58656a05d7ec5d07965deb249674b3
+
                  
