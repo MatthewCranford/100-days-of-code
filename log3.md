@@ -409,4 +409,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/5a2
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/e1ec993fcfc3a16255252d86a44b733f1c94e338
 
+## R3 Day 36: August 24, Friday
+
+**Today's Progress**: R3D36: Worked on part 3 of walkthrough and dived into React PropTypes and Controlled Components #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: React is kinda fun
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/b699df10e8a986ef17918a1a3b361ea0a28cfb40
+
                  
