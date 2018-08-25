@@ -420,4 +420,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/e1e
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/b699df10e8a986ef17918a1a3b361ea0a28cfb40
 
+## R3 Day 37: August 25, Saturday
+
+**Today's Progress**: R3D37: Getting close to finishing third part of project 5 walkthrough and took on some more React Controlled Components #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: React is kinda fun
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/4878d820343a99378adbbd6cfc75764c57ae0cfc
+
                  
