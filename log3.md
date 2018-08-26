@@ -431,4 +431,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/b69
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/4878d820343a99378adbbd6cfc75764c57ae0cfc
 
+## R3 Day 38: August 26, Sunday
+
+**Today's Progress**: R3D38: Completed part 3 of proj 5 walkthrough and got introduced to React Lifecycle Events #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: React is about to get tougher
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/b4a7b02906253cee16ad53a7f58c7776cee63ac9
+
                  
