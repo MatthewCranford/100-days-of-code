@@ -442,4 +442,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/487
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/b4a7b02906253cee16ad53a7f58c7776cee63ac9
 
+## R3 Day 39: August 27, Monday
+
+**Today's Progress**: R3D39: Worked with some more React Lifecycle Events and started part 4 of proj 5 walkthrough #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Writing about caching forcing me to learn it
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/dc7f3b1641e0f710ad8b50f004728cdf88f31a50
+
                  
