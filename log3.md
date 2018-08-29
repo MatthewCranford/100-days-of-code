@@ -464,4 +464,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/dc7
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/fb780f9d1ae355d180439e2fcc302c5c5dab0359
 
+## R3 Day 41: August 29, Wednesday
+
+**Today's Progress**: R3D41: Worked with pages and state with React and worked on caching section of proj 5 walkthrough #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Found the need for React routing 
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/ccb2d09f4ace0167295db4dc3d5857b931862f4e
+
                  
