@@ -475,4 +475,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/fb7
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/ccb2d09f4ace0167295db4dc3d5857b931862f4e
 
+## R3 Day 42: August 30, Thursday
+
+**Today's Progress**: R3D42: Got introduced to React Links and Routers. Gaining a much better understanding of caches while writing this project walkthrough  #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: This React app is getting complex
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/f7a0b3c0d957b9c0a6c0c85c3b72b2e768ed554c
+
                  
