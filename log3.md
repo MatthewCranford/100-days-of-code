@@ -486,4 +486,15 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/ccb
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/f7a0b3c0d957b9c0a6c0c85c3b72b2e768ed554c
 
+## R3 Day 43: August 31, Friday
+
+**Today's Progress**: R3D43: Serialized some forms with React and worked on proj 5 walkthrough #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: React is getting REALLY complex
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/27b4801dcb9da857b1fc7008ca353ce9091fe73e
+
                  
