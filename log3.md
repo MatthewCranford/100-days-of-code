@@ -497,4 +497,18 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/f7a
 1. MWS Restaurant Stage 1 Walkthrough
 https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/27b4801dcb9da857b1fc7008ca353ce9091fe73e
 
+## R3 Day 44: September 1, Saturday
+
+**Today's Progress**: R3D44: Finished proj 5 walkthrough and got an introduction into a book app project with React #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: First React project
+
+**Link(s) to work**
+
+1. MWS Restaurant Stage 1 Walkthrough
+https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/6cbc87109ff529af95365c1e6e357c8a2b11cba9
+
+2. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/456b9c8a47e96e3b728964aa0aab183a59c2943c
+
                  
