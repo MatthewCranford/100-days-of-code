@@ -511,4 +511,14 @@ https://github.com/MatthewCranford/mws-restaurant-stage-1-walkthrough/commit/6cb
 2. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/456b9c8a47e96e3b728964aa0aab183a59c2943c
 
+## R3 Day 45: September 2, Sunday
+
+**Today's Progress**: R3D45: Started working on my first React project #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: This project is tough
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/5dbb89c81ae99a11bdba9890168de914f6e59cd0
                  
