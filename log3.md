@@ -521,4 +521,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/456b9c
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/5dbb89c81ae99a11bdba9890168de914f6e59cd0
+
+## R3 Day 46: September 3, Monday
+
+**Today's Progress**: R3D46: Complete step 1 by adding React Router to the project and got the links linking #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Step 1 complete
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/bb99f0a596fafdbb4b784f1e039857ae2fc259a6
                  
