@@ -532,4 +532,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/5dbb89
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/bb99f0a596fafdbb4b784f1e039857ae2fc259a6
+
+## R3 Day 47: September 4, Tuesday
+
+**Today's Progress**: R3D47: Integrated some API data to my React project, but still a few bugs to fix #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Filter and Map problems
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/2f2cb221cf82b817c5fb2dde8262635fbdd738e0
                  
