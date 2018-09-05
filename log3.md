@@ -543,4 +543,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/bb99f0
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/2f2cb221cf82b817c5fb2dde8262635fbdd738e0
+
+## R3 Day 48: September 5, Wednesday
+
+**Today's Progress**: R3D48: Got the shelves added to the project, but still working on getting them to work with React state #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: State problems
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/bc42590e7d8aa3c9b86b880ff5a8aea210c9b51d
                  
