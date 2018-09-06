@@ -554,4 +554,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/2f2cb2
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/bc42590e7d8aa3c9b86b880ff5a8aea210c9b51d
+
+## R3 Day 49: September 6, Thursday
+
+**Today's Progress**: R3D49: Solved one bug only to discover another #progress #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Bugs...
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/6b2f4d2cc4d06aaf688987db30380eb8167e07eb
                  
