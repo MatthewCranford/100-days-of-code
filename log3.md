@@ -565,4 +565,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/bc4259
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/6b2f4d2cc4d06aaf688987db30380eb8167e07eb
+
+## R3 Day 50: September 7, Friday
+
+**Today's Progress**: R3D50: React practice with state management continues #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Tough problem with React state
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/e41c88135e8095823212e836ead2f8a23c48a11c
                  
