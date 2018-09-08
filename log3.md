@@ -576,4 +576,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/6b2f4d
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/e41c88135e8095823212e836ead2f8a23c48a11c
+
+## R3 Day 51: September 8, Saturday
+
+**Today's Progress**: R3D51: Bugs with my book app continue and started Data Foundations Nanodegree #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Problems with Reach state continue
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/40b9f6f1249c18e8da2d91a1e6863e4af3693e4b
                  
