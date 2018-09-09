@@ -587,4 +587,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/e41c88
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/40b9f6f1249c18e8da2d91a1e6863e4af3693e4b
+
+## R3 Day 52: September 9, Sunday
+
+**Today's Progress**: R3D52: Weekend work with myReads project #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Problems with Reach state continue AGAIN
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/ea9304ab87b33d4b14880d03ca68b99f91a776d4
                  
