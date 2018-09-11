@@ -609,4 +609,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/ea9304
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/0d705cb6adf7edd4a9f7d056755ad2d35817c63f
+
+## R3 Day 54: September 11, Tuesday
+
+**Today's Progress**: R3D54: Began breaking down my project into separate components and submitted first project for Data Science Nanodegree #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Got a lot done
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/35cc3f37cfdca36d6de48dafb043ee17fa978195
                  
