@@ -620,4 +620,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/0d705c
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/35cc3f37cfdca36d6de48dafb043ee17fa978195
+
+## R3 Day 55: September 12, Wednesday
+
+**Today's Progress**: R3D55: Worked on my project's components and learned about analyzing different data types #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Project coming together
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/8853b9efaaeed1e683075207e38dbbe43946c2e9
                  
