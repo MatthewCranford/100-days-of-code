@@ -642,4 +642,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/8853b9
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/084c7c09f6c058b52b5fb23ae066250ca662418f
+
+## R3 Day 57: September 14, Friday
+
+**Today's Progress**: R3D57: Connected functions with project components, but still working on bugs. Recapped on some notation in data science lessons #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Project struggles...
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/bcf833cd614656ac8a3678bbce963ec3872dac05
                  
