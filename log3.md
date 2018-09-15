@@ -653,4 +653,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/084c7c
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/bcf833cd614656ac8a3678bbce963ec3872dac05
+
+## R3 Day 58: September 15, Saturday
+
+**Today's Progress**: R3D58: Finally solved my shelf bug with the project and learned about the 5 number summary in data foundations #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Project GAINS
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/a558c1d8bfef70acb2d55e58d969ba4221bd1a5a
                  
