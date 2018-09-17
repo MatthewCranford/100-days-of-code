@@ -675,4 +675,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/a558c1
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/fa11654e76dab393f734a08341a805ebbeb8d490
+
+## R3 Day 60: September 17, Monday
+
+**Today's Progress**: R3D60: Working on getting search query working for project and practiced some more data measurements #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Project 6 going slow
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/f825edc02e8056e6f0ad48cabe44762b178f9fc1
                  
