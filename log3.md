@@ -686,4 +686,15 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/fa1165
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/f825edc02e8056e6f0ad48cabe44762b178f9fc1
+
+## R3 Day 61: September 18, Tuesday
+
+**Today's Progress**: R3D61: Worked on app's book search and learned more on data shapes/outliers #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Need to get this search functionality going 
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/6f45f9b49ab5ea925ee9ef57480d3841d498a4f2
                  
