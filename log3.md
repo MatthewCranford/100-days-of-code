@@ -708,3 +708,14 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/6f45f9
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/52a43cae648cf5d4126bfc9bd2d384fb453e1693
+
+## R3 Day 63: September 20, Wednesday
+
+**Today's Progress**: R3D63: Finally fixed a project bug and finished first spreadsheet section of Data Nanodegree #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: Finally
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/1afa0b27ce7611e5fc6a6e16cfc16af15fb55c52
