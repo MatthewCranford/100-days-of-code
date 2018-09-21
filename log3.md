@@ -698,7 +698,7 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/f825ed
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/6f45f9b49ab5ea925ee9ef57480d3841d498a4f2
 
-## R3 Day 62: September 19, Tuesday
+## R3 Day 62: September 19, Wednesday
 
 **Today's Progress**: R3D62: Progress on fixing search component for Book App, finished statistics unit, and started intro to spreadsheets #100DaysOfCode #301DaysOfCode 
 
@@ -709,7 +709,7 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/6f45f9
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/52a43cae648cf5d4126bfc9bd2d384fb453e1693
 
-## R3 Day 63: September 20, Wednesday
+## R3 Day 63: September 20, Thursday
 
 **Today's Progress**: R3D63: Finally fixed a project bug and finished first spreadsheet section of Data Nanodegree #100DaysOfCode #301DaysOfCode 
 
@@ -719,3 +719,14 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/52a43c
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/1afa0b27ce7611e5fc6a6e16cfc16af15fb55c52
+
+## R3 Day 64: September 21, Friday
+
+**Today's Progress**: R3D64: Got my search component working for project 6 #100DaysOfCode #301DaysOfCode 
+
+**Thoughts**: It's about time
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/df32127a29e0accef2d31b5cc202f29dcbce3ffd
