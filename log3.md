@@ -741,3 +741,14 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/df3212
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/8ab3e1d7ac14bd2d2bcfa026391da44a9eeeb4ca
+
+## R3 Day 66: September 23, Sunday
+
+**Today's Progress**: R3D66: Made some refactors to Front End Nano project, studied more React, and completed some spreadsheet challenges for Data Science Nano #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Making good progress
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/cafb7c9b519ad240d56c215f466ab0c7dc3726b3
