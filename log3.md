@@ -763,3 +763,14 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/cafb7c
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/56220cc307882d8ba6853bb25f3043839328be48
+
+## R3 Day 68: September 25, Tuesday
+
+**Today's Progress**: R3D68: Continued to review React and improve project. Finished Unit 2 on Spreadsheets for Data Science Nano  #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: React skills growing
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/0f2d65dfcb6127b98d65fe22e3ad334dd9d83dff
