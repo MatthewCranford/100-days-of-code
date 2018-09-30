@@ -818,3 +818,14 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/0da113
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/ec2f9dfe4e806f0e439f34408359f1ff4d0c3495
+
+## R3 Day 73: September 30, Sunday
+
+**Today's Progress**: R3D73: Submitted project 6 #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Project 6 submitted!
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/2d760a6573f14fc71a6f21f8f584f245bb120e2f
