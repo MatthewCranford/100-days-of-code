@@ -851,3 +851,14 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/7a1f37
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/7a1f37efb3c1fdf001a45bddca52c7c68e424e6a
+
+## R3 Day 76: October 3, Wednesday
+
+**Today's Progress**: R3D76: Finished updating/resubmitted project and got an introduction to Google Maps API  #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: FINAL MONTH LETS GO
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/b0e375cd3be0d7195d6169da2ce828ba991e5f29
