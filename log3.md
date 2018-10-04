@@ -862,3 +862,14 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/7a1f37
 
 1. MyReads app
 https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/b0e375cd3be0d7195d6169da2ce828ba991e5f29
+
+## R3 Day 77: October 4, Thursday
+
+**Today's Progress**: R3D77: Passed project 6 and got started on final project  #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Project 6 complete, time for final project
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/neighborhood-map/commit/4dc4ea6bbe934bff383b3b53285274f397be682f
