@@ -873,3 +873,14 @@ https://github.com/MatthewCranford/reactnd-project-myreads-starter/commit/b0e375
 
 1. MyReads app
 https://github.com/MatthewCranford/neighborhood-map/commit/4dc4ea6bbe934bff383b3b53285274f397be682f
+
+## R3 Day 78: October 5, Friday
+
+**Today's Progress**: R3D78: Worked on connecting Google Maps API with my React project #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: 4 pomos today, progress...
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/neighborhood-map/commit/25bc0af781d4a5c3446e3fddf500b7afec4498b3
