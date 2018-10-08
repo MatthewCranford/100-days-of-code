@@ -906,3 +906,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/25bc0af781d4a5c3446e3
 
 1. MyReads app
 https://github.com/MatthewCranford/neighborhood-map/commit/25bc0af781d4a5c3446e3fddf500b7afec4498b3
+
+## R3 Day 81: October 8, Monday
+
+**Today's Progress**: R3D81: Spent morning solving a project bug caused by a semicolon, fun times #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Fixed the bug!
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/neighborhood-map/commit/61e6e5d8f3d089f60aefcdc97e82c706946f21c4
