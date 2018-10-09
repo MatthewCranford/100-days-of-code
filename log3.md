@@ -917,3 +917,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/25bc0af781d4a5c3446e3
 
 1. MyReads app
 https://github.com/MatthewCranford/neighborhood-map/commit/61e6e5d8f3d089f60aefcdc97e82c706946f21c4
+
+## R3 Day 82: October 9, Tuesday
+
+**Today's Progress**: R3D82: Worked on project and API course #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Time is of the essence
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/neighborhood-map/commit/05d602a9cf2935d262bb794dee13b319b8991b27
