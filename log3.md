@@ -928,3 +928,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/61e6e5d8f3d089f60aefc
 
 1. MyReads app
 https://github.com/MatthewCranford/neighborhood-map/commit/05d602a9cf2935d262bb794dee13b319b8991b27
+
+## R3 Day 83: October 10, Wednesday
+
+**Today's Progress**: R3D83: Began adding 3rd party API to to project, not much luck so far #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: API are tricky
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/neighborhood-map/commit/b47219d94d28c4364fe3eedc9727b11617379e77
