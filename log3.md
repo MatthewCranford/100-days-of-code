@@ -950,3 +950,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/b47219d94d28c4364fe3e
 
 1. MyReads app
 https://github.com/MatthewCranford/neighborhood-map/commit/411bb687a49dace6c2f8301c96dff69571869474
+
+## R3 Day 85: October 12, Friday
+
+**Today's Progress**: R3D85: Got pics and likes data from API working until it stopped working, round 2 tomorrow #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: API query limit error?
+
+**Link(s) to work**
+
+1. MyReads app
+https://github.com/MatthewCranford/neighborhood-map/commit/db4506caaec0704aef230e0dd0c93db90828c005
