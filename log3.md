@@ -972,3 +972,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/db4506caaec0704aef230
 
 1. MyReads app
 https://github.com/MatthewCranford/neighborhood-map/commit/a430473ca7f3c7b6572b1b1f30250940e93f2ebe
+
+## R3 Day 87: October 14, Sunday
+
+**Today's Progress**: R3D87: CSS skills coming back to me, got the nav bar styles working on the project #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: CSS skills coming back
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/e8df9ca8418cdb0fb28eabee8371b7cb49117fb1
