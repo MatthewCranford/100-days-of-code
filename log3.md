@@ -983,3 +983,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/a430473ca7f3c7b6572b1
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/e8df9ca8418cdb0fb28eabee8371b7cb49117fb1
+
+## R3 Day 88: October 15, Monday
+
+**Today's Progress**: R3D88: Fixed some bugs with the nav bar and got the side bar to display #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Got the frame of the project standing
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/39ab2008cc20ab44c29307d619078a522dbf17dc
