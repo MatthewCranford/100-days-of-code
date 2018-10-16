@@ -994,3 +994,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/e8df9ca8418cdb0fb28ea
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/39ab2008cc20ab44c29307d619078a522dbf17dc
+
+## R3 Day 89: October 16, Tuesday
+
+**Today's Progress**: R3D89: Worked on app functionality and solving some style issues #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: CSS probs
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/56c3e36e12da3949929995d96fa32656ab02f168
