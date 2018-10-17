@@ -1005,3 +1005,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/39ab2008cc20ab44c2930
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/56c3e36e12da3949929995d96fa32656ab02f168
+
+## R3 Day 90: October 17, Wednesday
+
+**Today's Progress**: R3D90: Got layout issues solved and worked on query filtering #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Components probs
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/a535d5d1efc86ce6d40f216ea158a19e676dfc77
