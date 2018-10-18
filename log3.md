@@ -1016,3 +1016,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/56c3e36e12da394992999
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/a535d5d1efc86ce6d40f216ea158a19e676dfc77
+
+## R3 Day 91: October 18, Thursday
+
+**Today's Progress**: R3D91: Fixed App's place filtering from search queries #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Closing in on finish line
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/b29e9e08ff4f16465c150dc9152d251131f62cc2
