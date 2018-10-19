@@ -1027,3 +1027,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/a535d5d1efc86ce6d40f2
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/b29e9e08ff4f16465c150dc9152d251131f62cc2
+
+## R3 Day 92: October 19, Friday
+
+**Today's Progress**: R3D92: Worked on the app's active markers #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Trouble with components
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/fda3e6359efa89125491c1a17e0c19cb63822a64
