@@ -1044,7 +1044,19 @@ https://github.com/MatthewCranford/neighborhood-map/commit/fda3e6359efa89125491c
 **Today's Progress**: R3D93: Ran into some project issues, round 2 tomorrow #100DaysOfCode #301DaysOfCode  
 
 **Thoughts**: Confusing stuff
+
 **Link(s) to work**
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/27282b1eb02dd3c1f3f75d7abd46201fef911345
+
+## R3 Day 94: October 21, Sunday
+
+**Today's Progress**: R3D94: Reorganized project components #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Re-engage
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/a1e3a2874f9d8e340f9c751b6fa01a56675d74e9
