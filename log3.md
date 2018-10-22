@@ -1060,3 +1060,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/27282b1eb02dd3c1f3f75
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/a1e3a2874f9d8e340f9c751b6fa01a56675d74e9
+
+## R3 Day 95: October 22, Monday
+
+**Today's Progress**: R3D95: Got the nav menu component working on project...finally #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Small wins
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/9cfa40429bd1e0d19c4eca675a34301be0166591
