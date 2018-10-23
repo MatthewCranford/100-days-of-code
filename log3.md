@@ -1071,3 +1071,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/a1e3a2874f9d8e340f9c7
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/9cfa40429bd1e0d19c4eca675a34301be0166591
+
+## R3 Day 96: October 23, Tuesday
+
+**Today's Progress**: R3D96: Project's marker animations are a go #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: All kinds of wins...all kinds
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/16d2ea566d50932ad85df2e1b4f4b5224c08f029
