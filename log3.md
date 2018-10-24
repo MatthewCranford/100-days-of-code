@@ -1082,3 +1082,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/9cfa40429bd1e0d19c4ec
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/16d2ea566d50932ad85df2e1b4f4b5224c08f029
+
+## R3 Day 97: October 24, Wednesday
+
+**Today's Progress**: R3D97: Working on upgrading the API data fetching for project, no luck yet #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: State problems
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/ff7df32b5eb6c4f1beebdfaeba3429f7f5961714
