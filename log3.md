@@ -1094,7 +1094,7 @@ https://github.com/MatthewCranford/neighborhood-map/commit/16d2ea566d50932ad85df
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/ff7df32b5eb6c4f1beebdfaeba3429f7f5961714
 
-## R3 Day 98: October 25, Friday
+## R3 Day 98: October 25, Thursday
 
 **Today's Progress**: R3D98: Few bugs to solve before project is ready for submission #100DaysOfCode #301DaysOfCode  
 
@@ -1104,3 +1104,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/ff7df32b5eb6c4f1beebd
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/cdc643db1a7082fff99496167bb030fdf2ff3ff0
+
+## R3 Day 99: October 26, Friday
+
+**Today's Progress**: R3D99: Its done!? Project came together today, submission tomorrow #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: Its done!?
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/9a1969cb0faef8a9340ff49926d9112f4b54473c
