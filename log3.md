@@ -1115,3 +1115,14 @@ https://github.com/MatthewCranford/neighborhood-map/commit/cdc643db1a7082fff9949
 
 1. Neighborhood Map
 https://github.com/MatthewCranford/neighborhood-map/commit/9a1969cb0faef8a9340ff49926d9112f4b54473c
+
+## R3 Day 100: October 27, Saturday
+
+**Today's Progress**: R3D100: Ending this 300 days with my final project submission, it's been a wild ride #100DaysOfCode #301DaysOfCode  
+
+**Thoughts**: DONE
+
+**Link(s) to work**
+
+1. Neighborhood Map
+https://github.com/MatthewCranford/neighborhood-map/commit/352f8d70f48a67b792672028f541822242c8ce94
